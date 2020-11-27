@@ -3044,6 +3044,945 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -3416,6 +4355,1215 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Layouts_AppLayout__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Layouts/AppLayout */ "./resources/js/Layouts/AppLayout.vue");
 /* harmony import */ var _Jetstream_Welcome__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/Jetstream/Welcome */ "./resources/js/Jetstream/Welcome.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -46917,654 +49065,2372 @@ var render = function() {
     "div",
     { staticClass: "min-h-screen bg-gray-100" },
     [
-      _c("nav", { staticClass: "bg-white border-b border-gray-100" }, [
-        _c("div", { staticClass: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" }, [
-          _c("div", { staticClass: "flex justify-between h-16" }, [
-            _c("div", { staticClass: "flex" }, [
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section shopify-section__header",
+          attrs: { id: "shopify-section-header" }
+        },
+        [
+          _c(
+            "section",
+            {
+              attrs: {
+                "data-section-id": "header",
+                "data-section-type": "header"
+              }
+            },
+            [
               _c(
-                "div",
-                { staticClass: "flex-shrink-0 flex items-center" },
+                "header",
+                {
+                  staticClass: "header header--inline header--search-expanded",
+                  attrs: { role: "banner" }
+                },
                 [
-                  _c(
-                    "inertia-link",
-                    { attrs: { href: _vm.route("dashboard") } },
-                    [
-                      _c("jet-application-mark", {
-                        staticClass: "block h-9 w-auto"
-                      })
-                    ],
-                    1
-                  )
-                ],
-                1
-              ),
-              _vm._v(" "),
-              _c(
-                "div",
-                { staticClass: "hidden space-x-8 sm:-my-px sm:ml-10 sm:flex" },
-                [
-                  _c(
-                    "jet-nav-link",
-                    {
-                      attrs: {
-                        href: _vm.route("dashboard"),
-                        active: _vm.route().current("dashboard")
-                      }
-                    },
-                    [
-                      _vm._v(
-                        "\n                            Dashboard\n                        "
-                      )
-                    ]
-                  )
-                ],
-                1
-              )
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              { staticClass: "hidden sm:flex sm:items-center sm:ml-6" },
-              [
-                _c(
-                  "div",
-                  { staticClass: "ml-3 relative" },
-                  [
-                    _c("jet-dropdown", {
-                      attrs: { align: "right", width: "48" },
-                      scopedSlots: _vm._u([
-                        {
-                          key: "trigger",
-                          fn: function() {
-                            return [
-                              _vm.$page.jetstream.managesProfilePhotos
-                                ? _c(
-                                    "button",
+                  _c("div", { staticClass: "container" }, [
+                    _c("div", { staticClass: "header__inner" }, [
+                      _c(
+                        "nav",
+                        { staticClass: "header__mobile-nav hidden-lap-and-up" },
+                        [
+                          _c(
+                            "button",
+                            {
+                              staticClass:
+                                "header__mobile-nav-toggle icon-state touch-area",
+                              attrs: {
+                                "data-action": "toggle-menu",
+                                "aria-expanded": "false",
+                                "aria-haspopup": "true",
+                                "aria-controls": "mobile-menu",
+                                "aria-label": "Open menu"
+                              }
+                            },
+                            [
+                              _c(
+                                "span",
+                                { staticClass: "icon-state__primary" },
+                                [
+                                  _c(
+                                    "svg",
                                     {
                                       staticClass:
-                                        "flex text-sm border-2 border-transparent rounded-full focus:outline-none focus:border-gray-300 transition duration-150 ease-in-out"
+                                        "icon icon--hamburger-mobile",
+                                      attrs: {
+                                        focusable: "false",
+                                        viewBox: "0 0 20 16",
+                                        role: "presentation"
+                                      }
                                     },
                                     [
-                                      _c("img", {
-                                        staticClass:
-                                          "h-8 w-8 rounded-full object-cover",
+                                      _c("path", {
                                         attrs: {
-                                          src: _vm.$page.user.profile_photo_url,
-                                          alt: _vm.$page.user.name
+                                          d:
+                                            "M0 14h20v2H0v-2zM0 0h20v2H0V0zm0 7h20v2H0V7z",
+                                          fill: "currentColor",
+                                          "fill-rule": "evenodd"
                                         }
                                       })
                                     ]
                                   )
-                                : _c(
-                                    "button",
-                                    {
-                                      staticClass:
-                                        "flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out"
-                                    },
-                                    [
-                                      _c("div", [
-                                        _vm._v(_vm._s(_vm.$page.user.name))
-                                      ]),
-                                      _vm._v(" "),
-                                      _c("div", { staticClass: "ml-1" }, [
-                                        _c(
-                                          "svg",
-                                          {
-                                            staticClass: "fill-current h-4 w-4",
-                                            attrs: {
-                                              xmlns:
-                                                "http://www.w3.org/2000/svg",
-                                              viewBox: "0 0 20 20"
-                                            }
-                                          },
-                                          [
-                                            _c("path", {
-                                              attrs: {
-                                                "fill-rule": "evenodd",
-                                                d:
-                                                  "M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z",
-                                                "clip-rule": "evenodd"
-                                              }
-                                            })
-                                          ]
-                                        )
-                                      ])
-                                    ]
-                                  )
-                            ]
-                          },
-                          proxy: true
-                        },
-                        {
-                          key: "content",
-                          fn: function() {
-                            return [
-                              _c(
-                                "div",
-                                {
-                                  staticClass:
-                                    "block px-4 py-2 text-xs text-gray-400"
-                                },
-                                [
-                                  _vm._v(
-                                    "\n                                    Manage Account\n                                "
-                                  )
                                 ]
                               ),
                               _vm._v(" "),
                               _c(
-                                "jet-dropdown-link",
-                                { attrs: { href: _vm.route("profile.show") } },
+                                "span",
+                                { staticClass: "icon-state__secondary" },
                                 [
-                                  _vm._v(
-                                    "\n                                    Profile\n                                "
-                                  )
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _vm.$page.jetstream.hasApiFeatures
-                                ? _c(
-                                    "jet-dropdown-link",
+                                  _c(
+                                    "svg",
                                     {
+                                      staticClass: "icon icon--close",
                                       attrs: {
-                                        href: _vm.route("api-tokens.index")
+                                        focusable: "false",
+                                        viewBox: "0 0 19 19",
+                                        role: "presentation"
                                       }
                                     },
                                     [
-                                      _vm._v(
-                                        "\n                                    API Tokens\n                                "
-                                      )
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M9.1923882 8.39339828l7.7781745-7.7781746 1.4142136 1.41421357-7.7781746 7.77817459 7.7781746 7.77817456L16.9705627 19l-7.7781745-7.7781746L1.41421356 19 0 17.5857864l7.7781746-7.77817456L0 2.02943725 1.41421356.61522369 9.1923882 8.39339828z",
+                                          fill: "currentColor",
+                                          "fill-rule": "evenodd"
+                                        }
+                                      })
                                     ]
                                   )
-                                : _vm._e(),
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass: "mobile-menu",
+                              attrs: {
+                                id: "mobile-menu",
+                                "aria-hidden": "true"
+                              }
+                            },
+                            [
+                              _c(
+                                "svg",
+                                {
+                                  staticClass:
+                                    "icon icon--nav-triangle-borderless",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 20 9",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                      fill: "#ffffff"
+                                    }
+                                  })
+                                ]
+                              ),
                               _vm._v(" "),
-                              _c("div", {
-                                staticClass: "border-t border-gray-100"
-                              }),
-                              _vm._v(" "),
-                              _vm.$page.jetstream.hasTeamFeatures
-                                ? [
+                              _c("div", { staticClass: "mobile-menu__inner" }, [
+                                _c(
+                                  "div",
+                                  { staticClass: "mobile-menu__panel" },
+                                  [
                                     _c(
                                       "div",
-                                      {
-                                        staticClass:
-                                          "block px-4 py-2 text-xs text-gray-400"
-                                      },
+                                      { staticClass: "mobile-menu__section" },
                                       [
-                                        _vm._v(
-                                          "\n                                        Manage Team\n                                    "
-                                        )
-                                      ]
-                                    ),
-                                    _vm._v(" "),
-                                    _c(
-                                      "jet-dropdown-link",
-                                      {
-                                        attrs: {
-                                          href: _vm.route(
-                                            "teams.show",
-                                            _vm.$page.user.current_team
-                                          )
-                                        }
-                                      },
-                                      [
-                                        _vm._v(
-                                          "\n                                        Team Settings\n                                    "
-                                        )
-                                      ]
-                                    ),
-                                    _vm._v(" "),
-                                    _vm.$page.jetstream.canCreateTeams
-                                      ? _c(
-                                          "jet-dropdown-link",
-                                          {
-                                            attrs: {
-                                              href: _vm.route("teams.create")
-                                            }
-                                          },
-                                          [
-                                            _vm._v(
-                                              "\n                                        Create New Team\n                                    "
-                                            )
-                                          ]
-                                        )
-                                      : _vm._e(),
-                                    _vm._v(" "),
-                                    _c("div", {
-                                      staticClass: "border-t border-gray-100"
-                                    }),
-                                    _vm._v(" "),
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "block px-4 py-2 text-xs text-gray-400"
-                                      },
-                                      [
-                                        _vm._v(
-                                          "\n                                        Switch Teams\n                                    "
-                                        )
-                                      ]
-                                    ),
-                                    _vm._v(" "),
-                                    _vm._l(_vm.$page.user.all_teams, function(
-                                      team
-                                    ) {
-                                      return [
                                         _c(
-                                          "form",
+                                          "ul",
                                           {
-                                            key: team.id,
-                                            on: {
-                                              submit: function($event) {
-                                                $event.preventDefault()
-                                                return _vm.switchToTeam(team)
-                                              }
+                                            staticClass: "mobile-menu__nav",
+                                            attrs: {
+                                              "data-type": "menu",
+                                              role: "list"
                                             }
                                           },
                                           [
                                             _c(
-                                              "jet-dropdown-link",
-                                              { attrs: { as: "button" } },
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-item"
+                                              },
                                               [
                                                 _c(
-                                                  "div",
+                                                  "button",
                                                   {
                                                     staticClass:
-                                                      "flex items-center"
+                                                      "mobile-menu__nav-link",
+                                                    attrs: {
+                                                      "data-type": "menuitem",
+                                                      "aria-haspopup": "true",
+                                                      "aria-expanded": "false",
+                                                      "aria-controls":
+                                                        "mobile-panel-0",
+                                                      "data-action":
+                                                        "open-panel"
+                                                    }
                                                   },
                                                   [
-                                                    team.id ==
-                                                    _vm.$page.user
-                                                      .current_team_id
-                                                      ? _c(
-                                                          "svg",
-                                                          {
-                                                            staticClass:
-                                                              "mr-2 h-5 w-5 text-green-400",
-                                                            attrs: {
-                                                              fill: "none",
-                                                              "stroke-linecap":
-                                                                "round",
-                                                              "stroke-linejoin":
-                                                                "round",
-                                                              "stroke-width":
-                                                                "2",
-                                                              stroke:
-                                                                "currentColor",
-                                                              viewBox:
-                                                                "0 0 24 24"
-                                                            }
-                                                          },
-                                                          [
-                                                            _c("path", {
-                                                              attrs: {
-                                                                d:
-                                                                  "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-                                                              }
-                                                            })
-                                                          ]
-                                                        )
-                                                      : _vm._e(),
+                                                    _vm._v("All Products"),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-right",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 8 12",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M2 2l4 4-4 4",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _vm._m(0),
+                                            _vm._v(" "),
+                                            _vm._m(1),
+                                            _vm._v(" "),
+                                            _vm._m(2),
+                                            _vm._v(" "),
+                                            _vm._m(3),
+                                            _vm._v(" "),
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-item"
+                                              },
+                                              [
+                                                _c(
+                                                  "button",
+                                                  {
+                                                    staticClass:
+                                                      "mobile-menu__nav-link",
+                                                    attrs: {
+                                                      "data-type": "menuitem",
+                                                      "aria-haspopup": "true",
+                                                      "aria-expanded": "false",
+                                                      "aria-controls":
+                                                        "mobile-panel-5",
+                                                      "data-action":
+                                                        "open-panel"
+                                                    }
+                                                  },
+                                                  [
+                                                    _vm._v("Information"),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-right",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 8 12",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M2 2l4 4-4 4",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _vm._m(4),
+                                            _vm._v(" "),
+                                            _vm._m(5)
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section mobile-menu__section--loose"
+                                      },
+                                      [
+                                        _c(
+                                          "p",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__section-title heading h5"
+                                          },
+                                          [_vm._v("Need help?")]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__help-wrapper"
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--bi-phone",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 24 24",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c(
+                                                  "g",
+                                                  {
+                                                    attrs: {
+                                                      "stroke-width": "2",
+                                                      fill: "none",
+                                                      "fill-rule": "evenodd",
+                                                      "stroke-linecap": "square"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c("path", {
+                                                      attrs: {
+                                                        d:
+                                                          "M17 15l-3 3-8-8 3-3-5-5-3 3c0 9.941 8.059 18 18 18l3-3-5-5z",
+                                                        stroke: "#1e2d7d"
+                                                      }
+                                                    }),
                                                     _vm._v(" "),
-                                                    _c("div", [
-                                                      _vm._v(_vm._s(team.name))
-                                                    ])
+                                                    _c("path", {
+                                                      attrs: {
+                                                        d:
+                                                          "M14 1c4.971 0 9 4.029 9 9m-9-5c2.761 0 5 2.239 5 5",
+                                                        stroke: "#00badb"
+                                                      }
+                                                    })
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _c("span", [
+                                              _vm._v("Call us 1-800-663-4040")
+                                            ])
+                                          ]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__help-wrapper"
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--bi-email",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 22 22",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c(
+                                                  "g",
+                                                  {
+                                                    attrs: {
+                                                      fill: "none",
+                                                      "fill-rule": "evenodd"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c("path", {
+                                                      attrs: {
+                                                        stroke: "#00badb",
+                                                        d:
+                                                          "M.916667 10.08333367l3.66666667-2.65833334v4.65849997zm20.1666667 0L17.416667 7.42500033v4.65849997z"
+                                                      }
+                                                    }),
+                                                    _vm._v(" "),
+                                                    _c("path", {
+                                                      attrs: {
+                                                        stroke: "#1e2d7d",
+                                                        "stroke-width": "2",
+                                                        d:
+                                                          "M4.58333367 7.42500033L.916667 10.08333367V21.0833337h20.1666667V10.08333367L17.416667 7.42500033"
+                                                      }
+                                                    }),
+                                                    _vm._v(" "),
+                                                    _c("path", {
+                                                      attrs: {
+                                                        stroke: "#1e2d7d",
+                                                        "stroke-width": "2",
+                                                        d:
+                                                          "M4.58333367 12.1000003V.916667H17.416667v11.1833333m-16.5-2.01666663L21.0833337 21.0833337m0-11.00000003L11.0000003 15.5833337"
+                                                      }
+                                                    }),
+                                                    _vm._v(" "),
+                                                    _c("path", {
+                                                      attrs: {
+                                                        d:
+                                                          "M8.25000033 5.50000033h5.49999997M8.25000033 9.166667h5.49999997",
+                                                        stroke: "#00badb",
+                                                        "stroke-width": "2",
+                                                        "stroke-linecap":
+                                                          "square"
+                                                      }
+                                                    })
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _c(
+                                              "a",
+                                              {
+                                                attrs: {
+                                                  href:
+                                                    "mailto:info@warehouse.com"
+                                                }
+                                              },
+                                              [_vm._v("info@warehouse.com")]
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section mobile-menu__section--loose"
+                                      },
+                                      [
+                                        _c(
+                                          "p",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__section-title heading h5"
+                                          },
+                                          [_vm._v("Follow Us")]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "ul",
+                                          {
+                                            staticClass:
+                                              "social-media__item-list social-media__item-list--stack list--unstyled",
+                                            attrs: { role: "list" }
+                                          },
+                                          [
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "social-media__item social-media__item--facebook"
+                                              },
+                                              [
+                                                _c(
+                                                  "a",
+                                                  {
+                                                    attrs: {
+                                                      href:
+                                                        "https://www.facebook.com/hideflifestyle",
+                                                      target: "_blank",
+                                                      rel: "noopener",
+                                                      "aria-label":
+                                                        "Follow us on Facebook"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--facebook",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 30 30"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            d:
+                                                              "M15 30C6.71572875 30 0 23.2842712 0 15 0 6.71572875 6.71572875 0 15 0c8.2842712 0 15 6.71572875 15 15 0 8.2842712-6.7157288 15-15 15zm3.2142857-17.1429611h-2.1428678v-2.1425646c0-.5852979.8203285-1.07160109 1.0714928-1.07160109h1.071375v-2.1428925h-2.1428678c-2.3564786 0-3.2142536 1.98610393-3.2142536 3.21449359v2.1425646h-1.0714822l.0032143 2.1528011 1.0682679-.0099086v7.499969h3.2142536v-7.499969h2.1428678v-2.1428925z",
+                                                            fill:
+                                                              "currentColor",
+                                                            "fill-rule":
+                                                              "evenodd"
+                                                          }
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v("Facebook")
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "social-media__item social-media__item--instagram"
+                                              },
+                                              [
+                                                _c(
+                                                  "a",
+                                                  {
+                                                    attrs: {
+                                                      href:
+                                                        "https://www.instagram.com/hidef_lifestyle/",
+                                                      target: "_blank",
+                                                      rel: "noopener",
+                                                      "aria-label":
+                                                        "Follow us on Instagram"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--instagram",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          role: "presentation",
+                                                          viewBox: "0 0 30 30"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            d:
+                                                              "M15 30C6.71572875 30 0 23.2842712 0 15 0 6.71572875 6.71572875 0 15 0c8.2842712 0 15 6.71572875 15 15 0 8.2842712-6.7157288 15-15 15zm.0000159-23.03571429c-2.1823849 0-2.4560363.00925037-3.3131306.0483571-.8553081.03901103-1.4394529.17486384-1.9505835.37352345-.52841925.20532625-.9765517.48009406-1.42331254.926823-.44672894.44676084-.72149675.89489329-.926823 1.42331254-.19865961.5111306-.33451242 1.0952754-.37352345 1.9505835-.03910673.8570943-.0483571 1.1307457-.0483571 3.3131306 0 2.1823531.00925037 2.4560045.0483571 3.3130988.03901103.8553081.17486384 1.4394529.37352345 1.9505835.20532625.5284193.48009406.9765517.926823 1.4233125.44676084.446729.89489329.7214968 1.42331254.9268549.5111306.1986278 1.0952754.3344806 1.9505835.3734916.8570943.0391067 1.1307457.0483571 3.3131306.0483571 2.1823531 0 2.4560045-.0092504 3.3130988-.0483571.8553081-.039011 1.4394529-.1748638 1.9505835-.3734916.5284193-.2053581.9765517-.4801259 1.4233125-.9268549.446729-.4467608.7214968-.8948932.9268549-1.4233125.1986278-.5111306.3344806-1.0952754.3734916-1.9505835.0391067-.8570943.0483571-1.1307457.0483571-3.3130988 0-2.1823849-.0092504-2.4560363-.0483571-3.3131306-.039011-.8553081-.1748638-1.4394529-.3734916-1.9505835-.2053581-.52841925-.4801259-.9765517-.9268549-1.42331254-.4467608-.44672894-.8948932-.72149675-1.4233125-.926823-.5111306-.19865961-1.0952754-.33451242-1.9505835-.37352345-.8570943-.03910673-1.1307457-.0483571-3.3130988-.0483571zm0 1.44787387c2.1456068 0 2.3997686.00819774 3.2471022.04685789.7834742.03572556 1.2089592.1666342 1.4921162.27668167.3750864.14577303.6427729.31990322.9239522.60111439.2812111.28117926.4553413.54886575.6011144.92395217.1100474.283157.2409561.708642.2766816 1.4921162.0386602.8473336.0468579 1.1014954.0468579 3.247134 0 2.1456068-.0081977 2.3997686-.0468579 3.2471022-.0357255.7834742-.1666342 1.2089592-.2766816 1.4921162-.1457731.3750864-.3199033.6427729-.6011144.9239522-.2811793.2812111-.5488658.4553413-.9239522.6011144-.283157.1100474-.708642.2409561-1.4921162.2766816-.847206.0386602-1.1013359.0468579-3.2471022.0468579-2.1457981 0-2.3998961-.0081977-3.247134-.0468579-.7834742-.0357255-1.2089592-.1666342-1.4921162-.2766816-.37508642-.1457731-.64277291-.3199033-.92395217-.6011144-.28117927-.2811793-.45534136-.5488658-.60111439-.9239522-.11004747-.283157-.24095611-.708642-.27668167-1.4921162-.03866015-.8473336-.04685789-1.1014954-.04685789-3.2471022 0-2.1456386.00819774-2.3998004.04685789-3.247134.03572556-.7834742.1666342-1.2089592.27668167-1.4921162.14577303-.37508642.31990322-.64277291.60111439-.92395217.28117926-.28121117.54886575-.45534136.92395217-.60111439.283157-.11004747.708642-.24095611 1.4921162-.27668167.8473336-.03866015 1.1014954-.04685789 3.247134-.04685789zm0 9.26641182c-1.479357 0-2.6785873-1.1992303-2.6785873-2.6785555 0-1.479357 1.1992303-2.6785873 2.6785873-2.6785873 1.4793252 0 2.6785555 1.1992303 2.6785555 2.6785873 0 1.4793252-1.1992303 2.6785555-2.6785555 2.6785555zm0-6.8050167c-2.2790034 0-4.1264612 1.8474578-4.1264612 4.1264612 0 2.2789716 1.8474578 4.1264294 4.1264612 4.1264294 2.2789716 0 4.1264294-1.8474578 4.1264294-4.1264294 0-2.2790034-1.8474578-4.1264612-4.1264294-4.1264612zm5.2537621-.1630297c0-.532566-.431737-.96430298-.964303-.96430298-.532534 0-.964271.43173698-.964271.96430298 0 .5325659.431737.964271.964271.964271.532566 0 .964303-.4317051.964303-.964271z",
+                                                            fill:
+                                                              "currentColor",
+                                                            "fill-rule":
+                                                              "evenodd"
+                                                          }
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v("Instagram")
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "social-media__item social-media__item--pinterest"
+                                              },
+                                              [
+                                                _c(
+                                                  "a",
+                                                  {
+                                                    attrs: {
+                                                      href:
+                                                        "https://www.pinterest.fr/HiDEF_Lifestyle/",
+                                                      target: "_blank",
+                                                      rel: "noopener",
+                                                      "aria-label":
+                                                        "Follow us on Pinterest"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--pinterest",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          role: "presentation",
+                                                          viewBox: "0 0 30 30"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            d:
+                                                              "M15 30C6.71572875 30 0 23.2842712 0 15 0 6.71572875 6.71572875 0 15 0c8.2842712 0 15 6.71572875 15 15 0 8.2842712-6.7157288 15-15 15zm-.4492946-22.49876954c-.3287968.04238918-.6577148.08477836-.9865116.12714793-.619603.15784625-1.2950238.30765013-1.7959124.60980792-1.3367356.80672832-2.26284291 1.74754848-2.88355361 3.27881599-.1001431.247352-.10374313.4870343-.17702448.7625149-.47574032 1.7840923.36779138 3.6310327 1.39120339 4.2696951.1968419.1231267.6448551.3405257.8093833.0511377.0909873-.1603963.0706852-.3734014.1265202-.5593764.036883-.1231267.1532436-.3547666.1263818-.508219-.0455542-.260514-.316041-.4256572-.4299438-.635367-.230748-.4253041-.2421365-.8027267-.3541701-1.3723228.0084116-.0763633.0168405-.1527266.0253733-.2290899.0340445-.6372108.1384107-1.0968422.3287968-1.5502554.5593198-1.3317775 1.4578212-2.07273488 2.9088231-2.5163011.324591-.09899963 1.2400541-.25867013 1.7200175-.1523539.2867042.05078464.5734084.10156927.8600087.1523539 1.0390064.33760307 1.7953931.9602003 2.2007079 1.9316992.252902.6061594.3275507 1.7651044.1517724 2.5415071-.0833199.3679287-.0705641.6832289-.1770418 1.0168107-.3936666 1.2334841-.9709174 2.3763639-2.2765854 2.6942337-.8613761.2093567-1.5070793-.3321303-1.7200175-.8896824-.0589159-.1545509-.1598205-.4285603-.1011297-.6865243.2277711-1.0010987.5562045-1.8969797.8093661-2.8969995.24115-.9528838-.2166421-1.7048063-.9358863-1.8809146-.8949186-.2192233-1.585328.6350139-1.8211644 1.1943903-.1872881.4442919-.3005678 1.2641823-.1517724 1.8557085.0471811.1874265.2666617.689447.2276672.8640842-.1728187.7731269-.3685356 1.6039823-.5818373 2.3635745-.2219729.7906632-.3415527 1.5999416-.5564641 2.3639276-.098793.3507651-.0955738.7263439-.1770244 1.092821v.5337977c-.0739045.3379758-.0194367.9375444.0505042 1.2703809.0449484.2137505-.0261175.4786388.0758948.6357396.0020943.1140055.0159752.1388388.0506254.2031582.3168026-.0095136.7526829-.8673992.9106342-1.118027.3008274-.477913.5797431-.990879.8093833-1.5506281.2069844-.5042174.2391769-1.0621226.4046917-1.60104.1195798-.3894861.2889369-.843272.328918-1.2707535h.0252521c.065614.2342095.3033024.403727.4805692.5334446.5563429.4077482 1.5137774.7873678 2.5547742.5337977 1.1769151-.2868184 2.1141687-.8571599 2.7317812-1.702982.4549537-.6225776.7983583-1.3445472 1.0624066-2.1600633.1297394-.4011574.156982-.8454494.2529193-1.2711066.2405269-1.0661438-.0797199-2.3511383-.3794396-3.0497261-.9078995-2.11694836-2.8374975-3.32410832-5.918897-3.27881604z",
+                                                            fill:
+                                                              "currentColor",
+                                                            "fill-rule":
+                                                              "evenodd"
+                                                          }
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v("Pinterest")
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "social-media__item social-media__item--youtube"
+                                              },
+                                              [
+                                                _c(
+                                                  "a",
+                                                  {
+                                                    attrs: {
+                                                      href:
+                                                        "https://www.youtube.com/user/hideflifestyle",
+                                                      target: "_blank",
+                                                      rel: "noopener",
+                                                      "aria-label":
+                                                        "Follow us on YouTube"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--youtube",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          role: "presentation",
+                                                          viewBox: "0 0 30 30"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            d:
+                                                              "M15 30c8.2842712 0 15-6.7157288 15-15 0-8.28427125-6.7157288-15-15-15C6.71572875 0 0 6.71572875 0 15c0 8.2842712 6.71572875 15 15 15zm7.6656364-18.7823145C23 12.443121 23 15 23 15s0 2.5567903-.3343636 3.7824032c-.184.6760565-.7260909 1.208492-1.4145455 1.3892823C20.0033636 20.5 15 20.5 15 20.5s-5.00336364 0-6.25109091-.3283145c-.68836364-.1807903-1.23054545-.7132258-1.41454545-1.3892823C7 17.5567903 7 15 7 15s0-2.556879.33436364-3.7823145c.184-.6761452.72618181-1.2085807 1.41454545-1.38928227C9.99663636 9.5 15 9.5 15 9.5s5.0033636 0 6.2510909.32840323c.6884546.18070157 1.2305455.71313707 1.4145455 1.38928227zm-9.302 6.103758l4.1818181-2.3213548-4.1818181-2.3215322v4.642887z",
+                                                            fill:
+                                                              "currentColor",
+                                                            "fill-rule":
+                                                              "evenodd"
+                                                          }
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v("YouTube")
+                                                  ]
+                                                )
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "li",
+                                              {
+                                                staticClass:
+                                                  "social-media__item social-media__item--linkedin"
+                                              },
+                                              [
+                                                _c(
+                                                  "a",
+                                                  {
+                                                    attrs: {
+                                                      href:
+                                                        "https://www.linkedin.com/company/hidef-lifestyle/",
+                                                      target: "_blank",
+                                                      rel: "noopener",
+                                                      "aria-label":
+                                                        "Follow us on LinkedIn"
+                                                    }
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--linkedin",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          role: "presentation",
+                                                          viewBox: "0 0 30 30"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            d:
+                                                              "M15 30C6.71572875 30 0 23.2842712 0 15 0 6.71572875 6.71572875 0 15 0c8.2842712 0 15 6.71572875 15 15 0 8.2842712-6.7157288 15-15 15zM10.2456033 7.5c-.92709386 0-1.67417473.75112475-1.67417473 1.67662742 0 .92604418.74708087 1.67716898 1.67417473 1.67716898.9233098 0 1.6730935-.7511248 1.6730935-1.67716898C11.9186968 8.25112475 11.1689131 7.5 10.2456033 7.5zM8.80063428 21.4285714h2.88885682v-9.3037658H8.80063428v9.3037658zm4.69979822-9.3037658v9.3037658h2.8829104v-4.6015191c0-1.2141468.2292058-2.3898439 1.7309356-2.3898439 1.4811878 0 1.5001081 1.3879832 1.5001081 2.4667435v4.5246195H22.5V16.326122c0-2.5057349-.5400389-4.4320151-3.4618711-4.4320151-1.4044256 0-2.3466556.7711619-2.7315482 1.502791h-.0394623v-1.2720923h-2.7666859z",
+                                                            fill:
+                                                              "currentColor",
+                                                            "fill-rule":
+                                                              "evenodd"
+                                                          }
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v("LinkedIn")
                                                   ]
                                                 )
                                               ]
                                             )
-                                          ],
-                                          1
+                                          ]
                                         )
                                       ]
-                                    }),
-                                    _vm._v(" "),
-                                    _c("div", {
-                                      staticClass: "border-t border-gray-100"
-                                    })
+                                    )
                                   ]
-                                : _vm._e(),
-                              _vm._v(" "),
-                              _c(
-                                "form",
-                                {
-                                  on: {
-                                    submit: function($event) {
-                                      $event.preventDefault()
-                                      return _vm.logout($event)
-                                    }
-                                  }
-                                },
-                                [
-                                  _c(
-                                    "jet-dropdown-link",
-                                    { attrs: { as: "button" } },
-                                    [
-                                      _vm._v(
-                                        "\n                                        Logout\n                                    "
-                                      )
-                                    ]
-                                  )
-                                ],
-                                1
-                              )
-                            ]
-                          },
-                          proxy: true
-                        }
-                      ])
-                    })
-                  ],
-                  1
-                )
-              ]
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "-mr-2 flex items-center sm:hidden" }, [
-              _c(
-                "button",
-                {
-                  staticClass:
-                    "inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out",
-                  on: {
-                    click: function($event) {
-                      _vm.showingNavigationDropdown = !_vm.showingNavigationDropdown
-                    }
-                  }
-                },
-                [
-                  _c(
-                    "svg",
-                    {
-                      staticClass: "h-6 w-6",
-                      attrs: {
-                        stroke: "currentColor",
-                        fill: "none",
-                        viewBox: "0 0 24 24"
-                      }
-                    },
-                    [
-                      _c("path", {
-                        class: {
-                          hidden: _vm.showingNavigationDropdown,
-                          "inline-flex": !_vm.showingNavigationDropdown
-                        },
-                        attrs: {
-                          "stroke-linecap": "round",
-                          "stroke-linejoin": "round",
-                          "stroke-width": "2",
-                          d: "M4 6h16M4 12h16M4 18h16"
-                        }
-                      }),
-                      _vm._v(" "),
-                      _c("path", {
-                        class: {
-                          hidden: !_vm.showingNavigationDropdown,
-                          "inline-flex": _vm.showingNavigationDropdown
-                        },
-                        attrs: {
-                          "stroke-linecap": "round",
-                          "stroke-linejoin": "round",
-                          "stroke-width": "2",
-                          d: "M6 18L18 6M6 6l12 12"
-                        }
-                      })
-                    ]
-                  )
-                ]
-              )
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "sm:hidden",
-            class: {
-              block: _vm.showingNavigationDropdown,
-              hidden: !_vm.showingNavigationDropdown
-            }
-          },
-          [
-            _c(
-              "div",
-              { staticClass: "pt-2 pb-3 space-y-1" },
-              [
-                _c(
-                  "jet-responsive-nav-link",
-                  {
-                    attrs: {
-                      href: _vm.route("dashboard"),
-                      active: _vm.route().current("dashboard")
-                    }
-                  },
-                  [_vm._v("\n                    Dashboard\n                ")]
-                )
-              ],
-              1
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "pt-4 pb-1 border-t border-gray-200" }, [
-              _c("div", { staticClass: "flex items-center px-4" }, [
-                _c("div", { staticClass: "flex-shrink-0" }, [
-                  _c("img", {
-                    staticClass: "h-10 w-10 rounded-full",
-                    attrs: {
-                      src: _vm.$page.user.profile_photo_url,
-                      alt: _vm.$page.user.name
-                    }
-                  })
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "ml-3" }, [
-                  _c(
-                    "div",
-                    { staticClass: "font-medium text-base text-gray-800" },
-                    [_vm._v(_vm._s(_vm.$page.user.name))]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "div",
-                    { staticClass: "font-medium text-sm text-gray-500" },
-                    [_vm._v(_vm._s(_vm.$page.user.email))]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c(
-                "div",
-                { staticClass: "mt-3 space-y-1" },
-                [
-                  _c(
-                    "jet-responsive-nav-link",
-                    {
-                      attrs: {
-                        href: _vm.route("profile.show"),
-                        active: _vm.route().current("profile.show")
-                      }
-                    },
-                    [
-                      _vm._v(
-                        "\n                        Profile\n                    "
-                      )
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _vm.$page.jetstream.hasApiFeatures
-                    ? _c(
-                        "jet-responsive-nav-link",
-                        {
-                          attrs: {
-                            href: _vm.route("api-tokens.index"),
-                            active: _vm.route().current("api-tokens.index")
-                          }
-                        },
-                        [
-                          _vm._v(
-                            "\n                        API Tokens\n                    "
-                          )
-                        ]
-                      )
-                    : _vm._e(),
-                  _vm._v(" "),
-                  _c(
-                    "form",
-                    {
-                      attrs: { method: "POST" },
-                      on: {
-                        submit: function($event) {
-                          $event.preventDefault()
-                          return _vm.logout($event)
-                        }
-                      }
-                    },
-                    [
-                      _c(
-                        "jet-responsive-nav-link",
-                        { attrs: { as: "button" } },
-                        [
-                          _vm._v(
-                            "\n                            Logout\n                        "
-                          )
-                        ]
-                      )
-                    ],
-                    1
-                  ),
-                  _vm._v(" "),
-                  _vm.$page.jetstream.hasTeamFeatures
-                    ? [
-                        _c("div", { staticClass: "border-t border-gray-200" }),
-                        _vm._v(" "),
-                        _c(
-                          "div",
-                          {
-                            staticClass: "block px-4 py-2 text-xs text-gray-400"
-                          },
-                          [
-                            _vm._v(
-                              "\n                            Manage Team\n                        "
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c(
-                          "jet-responsive-nav-link",
-                          {
-                            attrs: {
-                              href: _vm.route(
-                                "teams.show",
-                                _vm.$page.user.current_team
-                              ),
-                              active: _vm.route().current("teams.show")
-                            }
-                          },
-                          [
-                            _vm._v(
-                              "\n                            Team Settings\n                        "
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c(
-                          "jet-responsive-nav-link",
-                          {
-                            attrs: {
-                              href: _vm.route("teams.create"),
-                              active: _vm.route().current("teams.create")
-                            }
-                          },
-                          [
-                            _vm._v(
-                              "\n                            Create New Team\n                        "
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "border-t border-gray-200" }),
-                        _vm._v(" "),
-                        _c(
-                          "div",
-                          {
-                            staticClass: "block px-4 py-2 text-xs text-gray-400"
-                          },
-                          [
-                            _vm._v(
-                              "\n                            Switch Teams\n                        "
-                            )
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _vm._l(_vm.$page.user.all_teams, function(team) {
-                          return [
-                            _c(
-                              "form",
-                              {
-                                key: team.id,
-                                on: {
-                                  submit: function($event) {
-                                    $event.preventDefault()
-                                    return _vm.switchToTeam(team)
-                                  }
-                                }
-                              },
-                              [
+                                ),
+                                _vm._v(" "),
                                 _c(
-                                  "jet-responsive-nav-link",
-                                  { attrs: { as: "button" } },
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-0" }
+                                  },
                                   [
                                     _c(
                                       "div",
-                                      { staticClass: "flex items-center" },
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
                                       [
-                                        team.id ==
-                                        _vm.$page.user.current_team_id
-                                          ? _c(
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
                                               "svg",
                                               {
                                                 staticClass:
-                                                  "mr-2 h-5 w-5 text-green-400",
+                                                  "icon icon--arrow-left",
                                                 attrs: {
-                                                  fill: "none",
-                                                  "stroke-linecap": "round",
-                                                  "stroke-linejoin": "round",
-                                                  "stroke-width": "2",
-                                                  stroke: "currentColor",
-                                                  viewBox: "0 0 24 24"
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
                                                 }
                                               },
                                               [
                                                 _c("path", {
                                                   attrs: {
-                                                    d:
-                                                      "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
                                                   }
                                                 })
                                               ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      { staticClass: "mobile-menu__section" },
+                                      [
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass: "mobile-menu__nav-list"
+                                          },
+                                          [
+                                            _c(
+                                              "div",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-list-item"
+                                              },
+                                              [
+                                                _c(
+                                                  "button",
+                                                  {
+                                                    staticClass:
+                                                      "mobile-menu__nav-list-toggle text--strong",
+                                                    attrs: {
+                                                      "aria-controls":
+                                                        "mobile-list-0",
+                                                      "aria-expanded": "false",
+                                                      "data-action":
+                                                        "toggle-collapsible",
+                                                      "data-close-siblings":
+                                                        "false"
+                                                    }
+                                                  },
+                                                  [
+                                                    _vm._v("Audio"),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-bottom",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 12 8",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M10 2L6 6 2 2",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _vm._m(6)
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "div",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-list-item"
+                                              },
+                                              [
+                                                _c(
+                                                  "button",
+                                                  {
+                                                    staticClass:
+                                                      "mobile-menu__nav-list-toggle text--strong",
+                                                    attrs: {
+                                                      "aria-controls":
+                                                        "mobile-list-1",
+                                                      "aria-expanded": "false",
+                                                      "data-action":
+                                                        "toggle-collapsible",
+                                                      "data-close-siblings":
+                                                        "false"
+                                                    }
+                                                  },
+                                                  [
+                                                    _vm._v("Hi-Fi"),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-bottom",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 12 8",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M10 2L6 6 2 2",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _vm._m(7)
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "div",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-list-item"
+                                              },
+                                              [
+                                                _c(
+                                                  "button",
+                                                  {
+                                                    staticClass:
+                                                      "mobile-menu__nav-list-toggle text--strong",
+                                                    attrs: {
+                                                      "aria-controls":
+                                                        "mobile-list-2",
+                                                      "aria-expanded": "false",
+                                                      "data-action":
+                                                        "toggle-collapsible",
+                                                      "data-close-siblings":
+                                                        "false"
+                                                    }
+                                                  },
+                                                  [
+                                                    _vm._v(
+                                                      "TV &\n                                      Entertainment"
+                                                    ),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-bottom",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 12 8",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M10 2L6 6 2 2",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _vm._m(8)
+                                              ]
+                                            ),
+                                            _vm._v(" "),
+                                            _c(
+                                              "div",
+                                              {
+                                                staticClass:
+                                                  "mobile-menu__nav-list-item"
+                                              },
+                                              [
+                                                _c(
+                                                  "button",
+                                                  {
+                                                    staticClass:
+                                                      "mobile-menu__nav-list-toggle text--strong",
+                                                    attrs: {
+                                                      "aria-controls":
+                                                        "mobile-list-3",
+                                                      "aria-expanded": "false",
+                                                      "data-action":
+                                                        "toggle-collapsible",
+                                                      "data-close-siblings":
+                                                        "false"
+                                                    }
+                                                  },
+                                                  [
+                                                    _vm._v(
+                                                      "Our\n                                      Selection"
+                                                    ),
+                                                    _c(
+                                                      "svg",
+                                                      {
+                                                        staticClass:
+                                                          "icon icon--arrow-bottom",
+                                                        attrs: {
+                                                          focusable: "false",
+                                                          viewBox: "0 0 12 8",
+                                                          role: "presentation"
+                                                        }
+                                                      },
+                                                      [
+                                                        _c("path", {
+                                                          attrs: {
+                                                            stroke:
+                                                              "currentColor",
+                                                            "stroke-width": "2",
+                                                            d: "M10 2L6 6 2 2",
+                                                            fill: "none",
+                                                            "stroke-linecap":
+                                                              "square"
+                                                          }
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _vm._m(9)
+                                              ]
                                             )
-                                          : _vm._e(),
+                                          ]
+                                        ),
                                         _vm._v(" "),
-                                        _c("div", [_vm._v(_vm._s(team.name))])
+                                        _vm._m(10)
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-5" }
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
+                                      [
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--arrow-left",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c("path", {
+                                                  attrs: {
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
+                                                  }
+                                                })
+                                              ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _vm._m(11)
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-0-0" }
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
+                                      [
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--arrow-left",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c("path", {
+                                                  attrs: {
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
+                                                  }
+                                                })
+                                              ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _vm._m(12)
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-0-1" }
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
+                                      [
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--arrow-left",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c("path", {
+                                                  attrs: {
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
+                                                  }
+                                                })
+                                              ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _vm._m(13)
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-0-2" }
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
+                                      [
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--arrow-left",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c("path", {
+                                                  attrs: {
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
+                                                  }
+                                                })
+                                              ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _vm._m(14)
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "mobile-menu__panel is-nested",
+                                    attrs: { id: "mobile-panel-0-3" }
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "mobile-menu__section is-sticky"
+                                      },
+                                      [
+                                        _c(
+                                          "button",
+                                          {
+                                            staticClass:
+                                              "mobile-menu__back-button",
+                                            attrs: {
+                                              "data-action": "close-panel"
+                                            }
+                                          },
+                                          [
+                                            _c(
+                                              "svg",
+                                              {
+                                                staticClass:
+                                                  "icon icon--arrow-left",
+                                                attrs: {
+                                                  focusable: "false",
+                                                  viewBox: "0 0 8 12",
+                                                  role: "presentation"
+                                                }
+                                              },
+                                              [
+                                                _c("path", {
+                                                  attrs: {
+                                                    stroke: "currentColor",
+                                                    "stroke-width": "2",
+                                                    d: "M6 10L2 6l4-4",
+                                                    fill: "none",
+                                                    "stroke-linecap": "square"
+                                                  }
+                                                })
+                                              ]
+                                            ),
+                                            _vm._v(" Back")
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _vm._m(15)
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _vm._m(16),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass: "header__search-bar-wrapper is-visible"
+                        },
+                        [
+                          _c(
+                            "form",
+                            {
+                              staticClass: "search-bar",
+                              attrs: {
+                                action:
+                                  "https://warehouse-theme-metal.myshopify.com/search",
+                                method: "get",
+                                role: "search"
+                              }
+                            },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "search-bar__top-wrapper" },
+                                [
+                                  _c(
+                                    "div",
+                                    { staticClass: "search-bar__top" },
+                                    [
+                                      _c("input", {
+                                        attrs: {
+                                          type: "hidden",
+                                          name: "type",
+                                          value: "product"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("input", {
+                                        attrs: {
+                                          type: "hidden",
+                                          name: "options[prefix]",
+                                          value: "last"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "search-bar__input-wrapper"
+                                        },
+                                        [
+                                          _c("input", {
+                                            staticClass: "search-bar__input",
+                                            attrs: {
+                                              type: "text",
+                                              name: "q",
+                                              autocomplete: "off",
+                                              autocorrect: "off",
+                                              "aria-label": "Search...",
+                                              placeholder: "Search..."
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "button",
+                                            {
+                                              staticClass:
+                                                "search-bar__input-clear hidden-lap-and-up",
+                                              attrs: {
+                                                type: "button",
+                                                "data-action": "clear-input"
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass: "visually-hidden"
+                                                },
+                                                [_vm._v("Clear")]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "svg",
+                                                {
+                                                  staticClass:
+                                                    "icon icon--close",
+                                                  attrs: {
+                                                    focusable: "false",
+                                                    viewBox: "0 0 19 19",
+                                                    role: "presentation"
+                                                  }
+                                                },
+                                                [
+                                                  _c("path", {
+                                                    attrs: {
+                                                      d:
+                                                        "M9.1923882 8.39339828l7.7781745-7.7781746 1.4142136 1.41421357-7.7781746 7.77817459 7.7781746 7.77817456L16.9705627 19l-7.7781745-7.7781746L1.41421356 19 0 17.5857864l7.7781746-7.77817456L0 2.02943725 1.41421356.61522369 9.1923882 8.39339828z",
+                                                      fill: "currentColor",
+                                                      "fill-rule": "evenodd"
+                                                    }
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        { staticClass: "search-bar__filter" },
+                                        [
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass:
+                                                "search-bar__filter-label",
+                                              attrs: {
+                                                for: "search-product-type"
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "search-bar__filter-active"
+                                                },
+                                                [_vm._v("All categories")]
+                                              ),
+                                              _c(
+                                                "svg",
+                                                {
+                                                  staticClass:
+                                                    "icon icon--arrow-bottom",
+                                                  attrs: {
+                                                    focusable: "false",
+                                                    viewBox: "0 0 12 8",
+                                                    role: "presentation"
+                                                  }
+                                                },
+                                                [
+                                                  _c("path", {
+                                                    attrs: {
+                                                      stroke: "currentColor",
+                                                      "stroke-width": "2",
+                                                      d: "M10 2L6 6 2 2",
+                                                      fill: "none",
+                                                      "stroke-linecap": "square"
+                                                    }
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _vm._m(17)
+                                        ]
+                                      ),
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass: "search-bar__submit",
+                                          attrs: {
+                                            type: "submit",
+                                            "aria-label": "Search"
+                                          }
+                                        },
+                                        [
+                                          _c(
+                                            "svg",
+                                            {
+                                              staticClass: "icon icon--search",
+                                              attrs: {
+                                                focusable: "false",
+                                                viewBox: "0 0 21 21",
+                                                role: "presentation"
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "g",
+                                                {
+                                                  attrs: {
+                                                    "stroke-width": "2",
+                                                    stroke: "currentColor",
+                                                    fill: "none",
+                                                    "fill-rule": "evenodd"
+                                                  }
+                                                },
+                                                [
+                                                  _c("path", {
+                                                    attrs: {
+                                                      d: "M19 19l-5-5",
+                                                      "stroke-linecap": "square"
+                                                    }
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("circle", {
+                                                    attrs: {
+                                                      cx: "8.5",
+                                                      cy: "8.5",
+                                                      r: "7.5"
+                                                    }
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          ),
+                                          _c(
+                                            "svg",
+                                            {
+                                              staticClass:
+                                                "icon icon--search-loader",
+                                              attrs: {
+                                                focusable: "false",
+                                                viewBox: "0 0 64 64",
+                                                role: "presentation"
+                                              }
+                                            },
+                                            [
+                                              _c("path", {
+                                                attrs: {
+                                                  opacity: ".4",
+                                                  d:
+                                                    "M23.8589104 1.05290547C40.92335108-3.43614731 58.45816642 6.79494359 62.94709453 23.8589104c4.48905278 17.06444068-5.74156424 34.59913135-22.80600493 39.08818413S5.54195825 57.2055303 1.05290547 40.1410896C-3.43602265 23.0771228 6.7944697 5.54195825 23.8589104 1.05290547zM38.6146353 57.1445143c13.8647142-3.64731754 22.17719655-17.89443541 18.529879-31.75914961-3.64743965-13.86517841-17.8944354-22.17719655-31.7591496-18.529879S3.20804604 24.7494569 6.8554857 38.6146353c3.64731753 13.8647142 17.8944354 22.17719655 31.7591496 18.529879z"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c("path", {
+                                                attrs: {
+                                                  d:
+                                                    "M1.05290547 40.1410896l5.80258022-1.5264543c3.64731754 13.8647142 17.89443541 22.17719655 31.75914961 18.529879l1.5264543 5.80258023C23.07664892 67.43614731 5.54195825 57.2055303 1.05290547 40.1410896z"
+                                                }
+                                              })
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _vm._m(18)
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _vm._m(19)
+                            ]
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "header__action-list" }, [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "header__action-item header__action-item--currency hidden-pocket"
+                          },
+                          [
+                            _c(
+                              "form",
+                              {
+                                staticClass: "shopify-localization-form",
+                                attrs: {
+                                  method: "post",
+                                  action:
+                                    "https://warehouse-theme-metal.myshopify.com/localization",
+                                  id: "localization_form_header_currency",
+                                  "accept-charset": "UTF-8",
+                                  enctype: "multipart/form-data"
+                                }
+                              },
+                              [
+                                _c("input", {
+                                  attrs: {
+                                    type: "hidden",
+                                    name: "form_type",
+                                    value: "localization"
+                                  }
+                                }),
+                                _c("input", {
+                                  attrs: {
+                                    type: "hidden",
+                                    name: "utf8",
+                                    value: "✓"
+                                  }
+                                }),
+                                _c("input", {
+                                  attrs: {
+                                    type: "hidden",
+                                    name: "_method",
+                                    value: "put"
+                                  }
+                                }),
+                                _c("input", {
+                                  attrs: {
+                                    type: "hidden",
+                                    name: "return_to",
+                                    value: "/"
+                                  }
+                                }),
+                                _c(
+                                  "span",
+                                  { staticClass: "header__action-item-title" },
+                                  [_vm._v("Currency")]
+                                ),
+                                _vm._v(" "),
+                                _c("input", {
+                                  attrs: {
+                                    type: "hidden",
+                                    name: "currency_code",
+                                    value: "USD"
+                                  }
+                                }),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass: "header__action-item-content"
+                                  },
+                                  [
+                                    _c(
+                                      "button",
+                                      {
+                                        staticClass: "header__action-item-link",
+                                        attrs: {
+                                          "data-action": "toggle-popover",
+                                          "aria-controls":
+                                            "desktop-currency-selector",
+                                          "aria-expanded": "false"
+                                        }
+                                      },
+                                      [
+                                        _c(
+                                          "span",
+                                          {
+                                            staticClass:
+                                              "currency-selector__value"
+                                          },
+                                          [_vm._v("USD $")]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "svg",
+                                          {
+                                            staticClass:
+                                              "icon icon--arrow-bottom",
+                                            attrs: {
+                                              focusable: "false",
+                                              viewBox: "0 0 12 8",
+                                              role: "presentation"
+                                            }
+                                          },
+                                          [
+                                            _c("path", {
+                                              attrs: {
+                                                stroke: "currentColor",
+                                                "stroke-width": "2",
+                                                d: "M10 2L6 6 2 2",
+                                                fill: "none",
+                                                "stroke-linecap": "square"
+                                              }
+                                            })
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "popover popover--currency",
+                                        attrs: {
+                                          id: "desktop-currency-selector",
+                                          "aria-hidden": "true"
+                                        }
+                                      },
+                                      [
+                                        _c(
+                                          "svg",
+                                          {
+                                            staticClass:
+                                              "icon icon--nav-triangle-borderless",
+                                            attrs: {
+                                              focusable: "false",
+                                              viewBox: "0 0 20 9",
+                                              role: "presentation"
+                                            }
+                                          },
+                                          [
+                                            _c("path", {
+                                              attrs: {
+                                                d:
+                                                  "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                                fill: "#ffffff"
+                                              }
+                                            })
+                                          ]
+                                        ),
+                                        _vm._v(" "),
+                                        _vm._m(20)
                                       ]
                                     )
                                   ]
                                 )
-                              ],
-                              1
+                              ]
                             )
                           ]
-                        })
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass:
+                            "header__action-item header__action-item--account"
+                        },
+                        [
+                          _c(
+                            "span",
+                            {
+                              staticClass:
+                                "header__action-item-title hidden-pocket hidden-lap"
+                            },
+                            [_vm._v("Login / Signup")]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "header__action-item-content" },
+                            [
+                              _c(
+                                "a",
+                                {
+                                  staticClass:
+                                    "header__action-item-link header__account-icon icon-state hidden-desk",
+                                  attrs: {
+                                    href: "account/login.html",
+                                    "aria-label": "My account",
+                                    "aria-controls": "account-popover",
+                                    "aria-expanded": "false",
+                                    "data-action": "toggle-popover"
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "span",
+                                    { staticClass: "icon-state__primary" },
+                                    [
+                                      _c(
+                                        "svg",
+                                        {
+                                          staticClass: "icon icon--account",
+                                          attrs: {
+                                            focusable: "false",
+                                            viewBox: "0 0 20 22",
+                                            role: "presentation"
+                                          }
+                                        },
+                                        [
+                                          _c("path", {
+                                            attrs: {
+                                              d:
+                                                "M10 13c2.82 0 5.33.64 6.98 1.2A3 3 0 0 1 19 17.02V21H1v-3.97a3 3 0 0 1 2.03-2.84A22.35 22.35 0 0 1 10 13zm0 0c-2.76 0-5-3.24-5-6V6a5 5 0 0 1 10 0v1c0 2.76-2.24 6-5 6z",
+                                              stroke: "currentColor",
+                                              "stroke-width": "2",
+                                              fill: "none"
+                                            }
+                                          })
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "span",
+                                    { staticClass: "icon-state__secondary" },
+                                    [
+                                      _c(
+                                        "svg",
+                                        {
+                                          staticClass: "icon icon--close",
+                                          attrs: {
+                                            focusable: "false",
+                                            viewBox: "0 0 19 19",
+                                            role: "presentation"
+                                          }
+                                        },
+                                        [
+                                          _c("path", {
+                                            attrs: {
+                                              d:
+                                                "M9.1923882 8.39339828l7.7781745-7.7781746 1.4142136 1.41421357-7.7781746 7.77817459 7.7781746 7.77817456L16.9705627 19l-7.7781745-7.7781746L1.41421356 19 0 17.5857864l7.7781746-7.77817456L0 2.02943725 1.41421356.61522369 9.1923882 8.39339828z",
+                                              fill: "currentColor",
+                                              "fill-rule": "evenodd"
+                                            }
+                                          })
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "a",
+                                {
+                                  staticClass:
+                                    "header__action-item-link hidden-pocket hidden-lap",
+                                  attrs: {
+                                    href: "account/login.html",
+                                    "aria-controls": "account-popover",
+                                    "aria-expanded": "false",
+                                    "data-action": "toggle-popover"
+                                  }
+                                },
+                                [
+                                  _vm._v("My account "),
+                                  _c(
+                                    "svg",
+                                    {
+                                      staticClass: "icon icon--arrow-bottom",
+                                      attrs: {
+                                        focusable: "false",
+                                        viewBox: "0 0 12 8",
+                                        role: "presentation"
+                                      }
+                                    },
+                                    [
+                                      _c("path", {
+                                        attrs: {
+                                          stroke: "currentColor",
+                                          "stroke-width": "2",
+                                          d: "M10 2L6 6 2 2",
+                                          fill: "none",
+                                          "stroke-linecap": "square"
+                                        }
+                                      })
+                                    ]
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "popover popover--large popover--unlogged",
+                                  attrs: {
+                                    id: "account-popover",
+                                    "aria-hidden": "true"
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "svg",
+                                    {
+                                      staticClass:
+                                        "icon icon--nav-triangle-borderless",
+                                      attrs: {
+                                        focusable: "false",
+                                        viewBox: "0 0 20 9",
+                                        role: "presentation"
+                                      }
+                                    },
+                                    [
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                          fill: "#ffffff"
+                                        }
+                                      })
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _vm._m(21)
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        {
+                          staticClass:
+                            "header__action-item header__action-item--cart"
+                        },
+                        [
+                          _c(
+                            "a",
+                            {
+                              staticClass:
+                                "header__action-item-link header__cart-toggle",
+                              attrs: {
+                                href: "cart.html",
+                                "aria-controls": "mini-cart",
+                                "aria-expanded": "false",
+                                "data-action": "toggle-mini-cart",
+                                "data-no-instant": ""
+                              }
+                            },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "header__action-item-content" },
+                                [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "header__cart-icon icon-state",
+                                      attrs: { "aria-expanded": "false" }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "icon-state__primary" },
+                                        [
+                                          _c(
+                                            "svg",
+                                            {
+                                              staticClass: "icon icon--cart",
+                                              attrs: {
+                                                focusable: "false",
+                                                viewBox: "0 0 27 24",
+                                                role: "presentation"
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "g",
+                                                {
+                                                  attrs: {
+                                                    transform: "translate(0 1)",
+                                                    "stroke-width": "2",
+                                                    stroke: "currentColor",
+                                                    fill: "none",
+                                                    "fill-rule": "evenodd"
+                                                  }
+                                                },
+                                                [
+                                                  _c("circle", {
+                                                    attrs: {
+                                                      "stroke-linecap":
+                                                        "square",
+                                                      cx: "11",
+                                                      cy: "20",
+                                                      r: "2"
+                                                    }
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("circle", {
+                                                    attrs: {
+                                                      "stroke-linecap":
+                                                        "square",
+                                                      cx: "22",
+                                                      cy: "20",
+                                                      r: "2"
+                                                    }
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("path", {
+                                                    attrs: {
+                                                      d:
+                                                        "M7.31 5h18.27l-1.44 10H9.78L6.22 0H0"
+                                                    }
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          ),
+                                          _c(
+                                            "span",
+                                            {
+                                              staticClass: "header__cart-count"
+                                            },
+                                            [_vm._v("0")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "icon-state__secondary"
+                                        },
+                                        [
+                                          _c(
+                                            "svg",
+                                            {
+                                              staticClass: "icon icon--close",
+                                              attrs: {
+                                                focusable: "false",
+                                                viewBox: "0 0 19 19",
+                                                role: "presentation"
+                                              }
+                                            },
+                                            [
+                                              _c("path", {
+                                                attrs: {
+                                                  d:
+                                                    "M9.1923882 8.39339828l7.7781745-7.7781746 1.4142136 1.41421357-7.7781746 7.77817459 7.7781746 7.77817456L16.9705627 19l-7.7781745-7.7781746L1.41421356 19 0 17.5857864l7.7781746-7.77817456L0 2.02943725 1.41421356.61522369 9.1923882 8.39339828z",
+                                                  fill: "currentColor",
+                                                  "fill-rule": "evenodd"
+                                                }
+                                              })
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "span",
+                                    { staticClass: "hidden-pocket hidden-lap" },
+                                    [_vm._v("Cart")]
+                                  )
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "form",
+                            {
+                              staticClass: "mini-cart",
+                              attrs: {
+                                method: "post",
+                                action:
+                                  "https://warehouse-theme-metal.myshopify.com/cart",
+                                id: "mini-cart",
+                                "aria-hidden": "true",
+                                novalidate: "novalidate",
+                                "data-item-count": "0"
+                              }
+                            },
+                            [
+                              _c("input", {
+                                attrs: {
+                                  type: "hidden",
+                                  name:
+                                    "attributes[collection_products_per_page]",
+                                  value: ""
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("input", {
+                                attrs: {
+                                  type: "hidden",
+                                  name: "attributes[collection_layout]",
+                                  value: ""
+                                }
+                              }),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass:
+                                    "icon icon--nav-triangle-borderless",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 20 9",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      d:
+                                        "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                      fill: "#ffffff"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "div",
+                                {
+                                  staticClass:
+                                    "mini-cart__content mini-cart__content--empty"
+                                },
+                                [
+                                  _vm._m(22),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    { staticClass: "mini-cart__empty-state" },
+                                    [
+                                      _c(
+                                        "svg",
+                                        {
+                                          attrs: {
+                                            focusable: "false",
+                                            width: "81",
+                                            height: "70",
+                                            viewBox: "0 0 81 70"
+                                          }
+                                        },
+                                        [
+                                          _c(
+                                            "g",
+                                            {
+                                              attrs: {
+                                                transform: "translate(0 2)",
+                                                "stroke-width": "4",
+                                                stroke: "#1e2d7d",
+                                                fill: "none",
+                                                "fill-rule": "evenodd"
+                                              }
+                                            },
+                                            [
+                                              _c("circle", {
+                                                attrs: {
+                                                  "stroke-linecap": "square",
+                                                  cx: "34",
+                                                  cy: "60",
+                                                  r: "6"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c("circle", {
+                                                attrs: {
+                                                  "stroke-linecap": "square",
+                                                  cx: "67",
+                                                  cy: "60",
+                                                  r: "6"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c("path", {
+                                                attrs: {
+                                                  d:
+                                                    "M22.9360352 15h54.8070373l-4.3391876 30H30.3387146L19.6676025 0H.99560547"
+                                                }
+                                              })
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c("p", { staticClass: "heading h4" }, [
+                                        _vm._v("Your cart is empty")
+                                      ])
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "button button--primary button--full",
+                                      attrs: { href: "collections/all.html" }
+                                    },
+                                    [_vm._v("Shop our products")]
+                                  )
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("nav", { staticClass: "nav-bar" }, [
+                _c("div", { staticClass: "nav-bar__inner" }, [
+                  _c("div", { staticClass: "container" }, [
+                    _c(
+                      "ul",
+                      {
+                        staticClass: "nav-bar__linklist list--unstyled",
+                        attrs: { "data-type": "menu", role: "list" }
+                      },
+                      [
+                        _c("li", { staticClass: "nav-bar__item" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "nav-bar__link link",
+                              attrs: {
+                                href: "collections.html",
+                                "data-type": "menuitem",
+                                "aria-expanded": "false",
+                                "aria-controls": "desktop-menu-0-1",
+                                "aria-haspopup": "true"
+                              }
+                            },
+                            [
+                              _vm._v("All Products"),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--arrow-bottom",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 12 8",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      stroke: "currentColor",
+                                      "stroke-width": "2",
+                                      d: "M10 2L6 6 2 2",
+                                      fill: "none",
+                                      "stroke-linecap": "square"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--nav-triangle",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 20 9",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "g",
+                                    {
+                                      attrs: {
+                                        fill: "none",
+                                        "fill-rule": "evenodd"
+                                      }
+                                    },
+                                    [
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                          fill: "#ffffff"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M-.00922471 9C1.38887087 7.61849126 4.26661926 4.80337304 8.62402045.5546454c.75993175-.7409708 1.98812015-.7393145 2.74596565.0037073L19.9800494 9h-1.3748787l-7.9226239-7.7676545c-.3789219-.3715101-.9930172-.3723389-1.3729808-.0018557-3.20734177 3.1273507-5.6127118 5.4776841-7.21584193 7.05073579C1.82769633 8.54226204 1.58379521 8.7818599 1.36203986 9H-.00922471z",
+                                          fill: "#e1e3e4"
+                                        }
+                                      })
+                                    ]
+                                  )
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _vm._m(23)
+                        ]),
+                        _vm._v(" "),
+                        _vm._m(24),
+                        _vm._v(" "),
+                        _vm._m(25),
+                        _vm._v(" "),
+                        _vm._m(26),
+                        _vm._v(" "),
+                        _vm._m(27),
+                        _vm._v(" "),
+                        _c("li", { staticClass: "nav-bar__item" }, [
+                          _c(
+                            "a",
+                            {
+                              staticClass: "nav-bar__link link",
+                              attrs: {
+                                href: "#",
+                                "data-type": "menuitem",
+                                "aria-expanded": "false",
+                                "aria-controls": "desktop-menu-0-6",
+                                "aria-haspopup": "true"
+                              }
+                            },
+                            [
+                              _vm._v("Information"),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--arrow-bottom",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 12 8",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      stroke: "currentColor",
+                                      "stroke-width": "2",
+                                      d: "M10 2L6 6 2 2",
+                                      fill: "none",
+                                      "stroke-linecap": "square"
+                                    }
+                                  })
+                                ]
+                              ),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--nav-triangle",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 20 9",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "g",
+                                    {
+                                      attrs: {
+                                        fill: "none",
+                                        "fill-rule": "evenodd"
+                                      }
+                                    },
+                                    [
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M.47108938 9c.2694725-.26871321.57077721-.56867841.90388257-.89986354C3.12384116 6.36134886 5.74788116 3.76338565 9.2467995.30653888c.4145057-.4095171 1.0844277-.40860098 1.4977971.00205122L19.4935156 9H.47108938z",
+                                          fill: "#ffffff"
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("path", {
+                                        attrs: {
+                                          d:
+                                            "M-.00922471 9C1.38887087 7.61849126 4.26661926 4.80337304 8.62402045.5546454c.75993175-.7409708 1.98812015-.7393145 2.74596565.0037073L19.9800494 9h-1.3748787l-7.9226239-7.7676545c-.3789219-.3715101-.9930172-.3723389-1.3729808-.0018557-3.20734177 3.1273507-5.6127118 5.4776841-7.21584193 7.05073579C1.82769633 8.54226204 1.58379521 8.7818599 1.36203986 9H-.00922471z",
+                                          fill: "#e1e3e4"
+                                        }
+                                      })
+                                    ]
+                                  )
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _vm._m(28)
+                        ]),
+                        _vm._v(" "),
+                        _vm._m(29),
+                        _vm._v(" "),
+                        _vm._m(30)
                       ]
-                    : _vm._e()
-                ],
-                2
-              )
-            ])
-          ]
-        )
-      ]),
+                    )
+                  ])
+                ])
+              ])
+            ]
+          )
+        ]
+      ),
       _vm._v(" "),
       _c("header", { staticClass: "bg-white shadow" }, [
         _c(
@@ -47582,7 +51448,2516 @@ var render = function() {
     1
   )
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: {
+            href: "collections/new-arrivals.html",
+            "data-type": "menuitem"
+          }
+        },
+        [_vm._v("New Arrivals")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: { href: "collections/sales.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Sales")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: { href: "collections.html", "data-type": "menuitem" }
+        },
+        [_vm._v("All Collections")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: { href: "pages/brands.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Brands")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: { href: "blogs/news.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Blog")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "mobile-menu__nav-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__nav-link",
+          attrs: { href: "pages/contact-us.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Contact")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "mobile-menu__nav-collapsible",
+        attrs: { id: "mobile-list-0" }
+      },
+      [
+        _c("div", { staticClass: "mobile-menu__nav-collapsible-content" }, [
+          _c(
+            "ul",
+            {
+              staticClass: "mobile-menu__nav",
+              attrs: { "data-type": "menu", role: "list" }
+            },
+            [
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/headphones.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Headphones")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/earbuds.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Earbuds")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/portable-speakers.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Portable Speakers")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/turntables.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Turntables")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/walkmans.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Walkmans")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/audio-accessories.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Audio Accessories")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/audio.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Shop All")]
+                )
+              ])
+            ]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "mobile-menu__nav-collapsible",
+        attrs: { id: "mobile-list-1" }
+      },
+      [
+        _c("div", { staticClass: "mobile-menu__nav-collapsible-content" }, [
+          _c(
+            "ul",
+            {
+              staticClass: "mobile-menu__nav",
+              attrs: { "data-type": "menu", role: "list" }
+            },
+            [
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/speakers.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Speakers")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/subwoofers.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Subwoofers")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/sound-bars.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Sound Bars")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/amplifiers.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Amplifiers")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/home-cinema.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Home Cinema")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/a-v-receivers.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("A/V Receivers")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/hi-fi.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Shop All")]
+                )
+              ])
+            ]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "mobile-menu__nav-collapsible",
+        attrs: { id: "mobile-list-2" }
+      },
+      [
+        _c("div", { staticClass: "mobile-menu__nav-collapsible-content" }, [
+          _c(
+            "ul",
+            {
+              staticClass: "mobile-menu__nav",
+              attrs: { "data-type": "menu", role: "list" }
+            },
+            [
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/led-tvs.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("LED TVs")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/oled-tvs.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("OLED TVs")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/projectors.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Projectors")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/blu-ray-dvd-players.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Blu-Ray & DVD Players")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/tv-accessories.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("TV Accessories")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/tv-entertainment.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Shop All")]
+                )
+              ])
+            ]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "mobile-menu__nav-collapsible",
+        attrs: { id: "mobile-list-3" }
+      },
+      [
+        _c("div", { staticClass: "mobile-menu__nav-collapsible-content" }, [
+          _c(
+            "ul",
+            {
+              staticClass: "mobile-menu__nav",
+              attrs: { "data-type": "menu", role: "list" }
+            },
+            [
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/waterproof.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Waterproof")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/portable.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Portable")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/bluetooth.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Bluetooth")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/accessories.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Accessories")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", { staticClass: "mobile-menu__nav-item" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mobile-menu__nav-link",
+                    attrs: {
+                      href: "collections/professional-audio.html",
+                      "data-type": "menuitem"
+                    }
+                  },
+                  [_vm._v("Professional Audio")]
+                )
+              ])
+            ]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__promo-item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "mobile-menu__promo",
+          attrs: { href: "collections/portable-speakers/brand_jbl.html" }
+        },
+        [
+          _c("div", { staticClass: "mobile-menu__image-wrapper" }, [
+            _c(
+              "div",
+              {
+                staticClass: "aspect-ratio",
+                staticStyle: { "padding-bottom": "66.66666666666667%" }
+              },
+              [
+                _c("img", {
+                  staticClass: "lazyload image--fade-in",
+                  attrs: {
+                    "data-src":
+                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/Header---2_550x.jpg?v=1559433650",
+                    alt: ""
+                  }
+                })
+              ]
+            )
+          ]),
+          _vm._v(" "),
+          _c("span", { staticClass: "mobile-menu__image-heading heading" }, [
+            _vm._v("New JBL Portable Speakers")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "mobile-menu__image-text" }, [
+            _vm._v("From $39.95 only!")
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__section" }, [
+      _c(
+        "ul",
+        {
+          staticClass: "mobile-menu__nav",
+          attrs: { "data-type": "menu", role: "list" }
+        },
+        [
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link text--strong",
+                attrs: { href: "#" }
+              },
+              [_vm._v("Information")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "pages/meet-the-team.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Meet the team")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: { href: "pages/about.html", "data-type": "menuitem" }
+              },
+              [_vm._v("About")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: { href: "pages/faq.html", "data-type": "menuitem" }
+              },
+              [_vm._v("FAQ")]
+            )
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__section" }, [
+      _c(
+        "ul",
+        {
+          staticClass: "mobile-menu__nav",
+          attrs: { "data-type": "menu", role: "list" }
+        },
+        [
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link text--strong",
+                attrs: { href: "collections.html" }
+              },
+              [_vm._v("Audio")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/headphones.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Headphones")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/earbuds.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Earbuds")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/portable-speakers.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Portable Speakers")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/turntables.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Turntables")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/walkmans.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Walkmans")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/audio-accessories.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Audio Accessories")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/audio.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Shop\n                                      All")]
+            )
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__section" }, [
+      _c(
+        "ul",
+        {
+          staticClass: "mobile-menu__nav",
+          attrs: { "data-type": "menu", role: "list" }
+        },
+        [
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link text--strong",
+                attrs: { href: "collections.html" }
+              },
+              [_vm._v("Hi-Fi")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/speakers.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Speakers")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/subwoofers.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Subwoofers")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/sound-bars.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Sound\n                                      Bars")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/amplifiers.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Amplifiers")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/home-cinema.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Home\n                                      Cinema")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/a-v-receivers.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("A/V Receivers")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/hi-fi.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Shop\n                                      All")]
+            )
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__section" }, [
+      _c(
+        "ul",
+        {
+          staticClass: "mobile-menu__nav",
+          attrs: { "data-type": "menu", role: "list" }
+        },
+        [
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link text--strong",
+                attrs: { href: "collections.html" }
+              },
+              [_vm._v("TV & Entertainment")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/led-tvs.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("LED\n                                      TVs")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/oled-tvs.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("OLED\n                                      TVs")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/projectors.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Projectors")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/blu-ray-dvd-players.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Blu-Ray & DVD Players")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/tv-accessories.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("TV Accessories")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/tv-entertainment.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Shop All")]
+            )
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "mobile-menu__section" }, [
+      _c(
+        "ul",
+        {
+          staticClass: "mobile-menu__nav",
+          attrs: { "data-type": "menu", role: "list" }
+        },
+        [
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link text--strong",
+                attrs: { href: "collections.html" }
+              },
+              [_vm._v("Our Selection")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/waterproof.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Waterproof")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/portable.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Portable")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/bluetooth.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Bluetooth")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/accessories.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Accessories")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "mobile-menu__nav-item" }, [
+            _c(
+              "a",
+              {
+                staticClass: "mobile-menu__nav-link",
+                attrs: {
+                  href: "collections/professional-audio.html",
+                  "data-type": "menuitem"
+                }
+              },
+              [_vm._v("Professional Audio")]
+            )
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h1", { staticClass: "header__logo" }, [
+      _c(
+        "a",
+        { staticClass: "header__logo-link", attrs: { href: "index.html" } },
+        [
+          _c("img", {
+            staticClass: "header__logo-image",
+            staticStyle: { "max-width": "175px" },
+            attrs: {
+              width: "348",
+              height: "64",
+              src: "/assets/img/logo.png",
+              alt: "Warehouse - Metal"
+            }
+          })
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("select", { attrs: { id: "search-product-type" } }, [
+      _c("option", { attrs: { value: "", selected: "selected" } }, [
+        _vm._v("All categories")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "A/V Receivers" } }, [
+        _vm._v("A/V Receivers")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Amplifiers" } }, [_vm._v("Amplifiers")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Audio Accessories" } }, [
+        _vm._v("Audio Accessories")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Earbuds" } }, [_vm._v("Earbuds")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Headphones" } }, [_vm._v("Headphones")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Home Cinema" } }, [
+        _vm._v("Home Cinema")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Portable Speakers" } }, [
+        _vm._v("Portable Speakers")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Projectors" } }, [_vm._v("Projectors")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Sound Bars" } }, [_vm._v("Sound Bars")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Speakers" } }, [_vm._v("Speakers")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Subwoofers" } }, [_vm._v("Subwoofers")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Turntables" } }, [_vm._v("Turntables")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "TV Accessories" } }, [
+        _vm._v("TV Accessories")
+      ]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "TVs" } }, [_vm._v("TVs")]),
+      _vm._v(" "),
+      _c("option", { attrs: { value: "Walkmans" } }, [_vm._v("Walkmans")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "button",
+      {
+        staticClass: "search-bar__close-button hidden-tablet-and-up",
+        attrs: { type: "button", "data-action": "unfix-search" }
+      },
+      [_c("span", { staticClass: "search-bar__close-text" }, [_vm._v("Close")])]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "search-bar__inner" }, [
+      _c("div", { staticClass: "search-bar__inner-animation" }, [
+        _c(
+          "div",
+          {
+            staticClass: "search-bar__results",
+            attrs: { "aria-hidden": "true" }
+          },
+          [
+            _c("div", { staticClass: "skeleton-container" }, [
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "search-bar__result-item search-bar__result-item--skeleton"
+                },
+                [
+                  _c("div", { staticClass: "search-bar__image-container" }, [
+                    _c(
+                      "div",
+                      { staticClass: "aspect-ratio aspect-ratio--square" },
+                      [_c("div", { staticClass: "skeleton-image" })]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "search-bar__item-info" }, [
+                    _c("div", { staticClass: "skeleton-paragraph" }, [
+                      _c("div", { staticClass: "skeleton-text" }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "skeleton-text" })
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "search-bar__result-item search-bar__result-item--skeleton"
+                },
+                [
+                  _c("div", { staticClass: "search-bar__image-container" }, [
+                    _c(
+                      "div",
+                      { staticClass: "aspect-ratio aspect-ratio--square" },
+                      [_c("div", { staticClass: "skeleton-image" })]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "search-bar__item-info" }, [
+                    _c("div", { staticClass: "skeleton-paragraph" }, [
+                      _c("div", { staticClass: "skeleton-text" }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "skeleton-text" })
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "div",
+                {
+                  staticClass:
+                    "search-bar__result-item search-bar__result-item--skeleton"
+                },
+                [
+                  _c("div", { staticClass: "search-bar__image-container" }, [
+                    _c(
+                      "div",
+                      { staticClass: "aspect-ratio aspect-ratio--square" },
+                      [_c("div", { staticClass: "skeleton-image" })]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "search-bar__item-info" }, [
+                    _c("div", { staticClass: "skeleton-paragraph" }, [
+                      _c("div", { staticClass: "skeleton-text" }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "skeleton-text" })
+                    ])
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "search-bar__results-inner" })
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "search-bar__menu-wrapper",
+            attrs: { "aria-hidden": "true" }
+          },
+          [
+            _c("p", { staticClass: "search-bar__menu-title heading" }, [
+              _vm._v("Need some inspiration?")
+            ]),
+            _vm._v(" "),
+            _c(
+              "ul",
+              {
+                staticClass: "search-bar__menu-linklist list--unstyled",
+                attrs: { role: "list" }
+              },
+              [
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: {
+                        href:
+                          "products/jbl-charge-3-portable-bluetooth-speaker.html"
+                      }
+                    },
+                    [_vm._v("New In! JBL Charge 3")]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: {
+                        href:
+                          "products/sony-xbr77a1e-77-inch-4k-ultra-hd-smart-bravia-oled-tv-works-with-alexa.html"
+                      }
+                    },
+                    [_vm._v("Sony 77-Inch 4K OLED TV")]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: { href: "collections/bluetooth.html" }
+                    },
+                    [_vm._v("Our Bluetooth Selection")]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: {
+                        href:
+                          "products/klipsch-rp-600m-reference-premiere-bookshelf-speakers-pair.html"
+                      }
+                    },
+                    [_vm._v("Klipsch Bookshelf Speakers")]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: {
+                        href:
+                          "products/akg-n20u-reference-class-in-ear-headphones-with-truly-universal-3-button-control"
+                      }
+                    },
+                    [_vm._v("AKG In-Ear Headphones")]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "search-bar__menu-link",
+                      attrs: { href: "collections/sales.html" }
+                    },
+                    [_vm._v("Our Sales")]
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "popover__inner popover__inner--no-padding" },
+      [
+        _c(
+          "ul",
+          { staticClass: "popover__linklist", attrs: { role: "list" } },
+          [
+            _c("li", { staticClass: "popover__linklist-item" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "popover__link-item",
+                  attrs: { type: "submit", name: "currency_code", value: "CAD" }
+                },
+                [
+                  _vm._v(
+                    "\n                                            CAD $\n                                          "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "popover__linklist-item" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "popover__link-item",
+                  attrs: { type: "submit", name: "currency_code", value: "EUR" }
+                },
+                [
+                  _vm._v(
+                    "\n                                            EUR €\n                                          "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "popover__linklist-item" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "popover__link-item",
+                  attrs: { type: "submit", name: "currency_code", value: "JPY" }
+                },
+                [
+                  _vm._v(
+                    "\n                                            JPY ¥\n                                          "
+                  )
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "popover__linklist-item" }, [
+              _c(
+                "button",
+                {
+                  staticClass: "popover__link-item",
+                  attrs: {
+                    type: "submit",
+                    name: "currency_code",
+                    value: "USD",
+                    "aria-current": "true"
+                  }
+                },
+                [
+                  _vm._v(
+                    "\n                                            USD $\n                                          "
+                  )
+                ]
+              )
+            ])
+          ]
+        )
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "popover__panel-list" }, [
+      _c(
+        "div",
+        {
+          staticClass: "popover__panel popover__panel--default is-selected",
+          attrs: { id: "header-login-panel" }
+        },
+        [
+          _c("div", { staticClass: "popover__inner" }, [
+            _c(
+              "form",
+              {
+                staticClass: "form",
+                attrs: {
+                  method: "post",
+                  action:
+                    "https://warehouse-theme-metal.myshopify.com/account/login",
+                  id: "header_customer_login",
+                  "accept-charset": "UTF-8",
+                  name: "login"
+                }
+              },
+              [
+                _c("input", {
+                  attrs: {
+                    type: "hidden",
+                    name: "form_type",
+                    value: "customer_login"
+                  }
+                }),
+                _c("input", {
+                  attrs: { type: "hidden", name: "utf8", value: "✓" }
+                }),
+                _vm._v(" "),
+                _c("header", { staticClass: "popover__header" }, [
+                  _c("h2", { staticClass: "popover__title heading" }, [
+                    _vm._v("Login to my account")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "popover__legend" }, [
+                    _vm._v("Enter your e-mail and password:")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "email",
+                        id: "login-customer[email]",
+                        name: "customer[email]",
+                        required: "required"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "login-customer[email]" }
+                      },
+                      [_vm._v("Email")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "password",
+                        id: "login-customer[password]",
+                        name: "customer[password]",
+                        required: "required",
+                        autocomplete: "current-password"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "login-customer[password]" }
+                      },
+                      [_vm._v("Password")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "button",
+                  {
+                    staticClass:
+                      "form__submit button button--primary button--full",
+                    attrs: { type: "submit" }
+                  },
+                  [_vm._v("Login")]
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "popover__secondary-action" }, [
+              _c("p", [
+                _vm._v("New customer? "),
+                _c(
+                  "button",
+                  {
+                    staticClass: "link link--accented",
+                    attrs: {
+                      "data-action": "show-popover-panel",
+                      "aria-controls": "header-register-panel"
+                    }
+                  },
+                  [
+                    _vm._v(
+                      "Create your\n                                        account"
+                    )
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v("Lost password? "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "link link--accented",
+                    attrs: {
+                      href: "account/login4236.html#recover-password",
+                      "aria-controls": "header-recover-panel"
+                    }
+                  },
+                  [_vm._v("Recover password")]
+                )
+              ])
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "popover__panel popover__panel--sliding",
+          attrs: { id: "header-recover-panel" }
+        },
+        [
+          _c("div", { staticClass: "popover__inner" }, [
+            _c(
+              "form",
+              {
+                staticClass: "form",
+                attrs: {
+                  method: "post",
+                  action:
+                    "https://warehouse-theme-metal.myshopify.com/account/recover",
+                  "accept-charset": "UTF-8",
+                  name: "recover"
+                }
+              },
+              [
+                _c("input", {
+                  attrs: {
+                    type: "hidden",
+                    name: "form_type",
+                    value: "recover_customer_password"
+                  }
+                }),
+                _c("input", {
+                  attrs: { type: "hidden", name: "utf8", value: "✓" }
+                }),
+                _vm._v(" "),
+                _c("header", { staticClass: "popover__header" }, [
+                  _c("h2", { staticClass: "popover__title heading" }, [
+                    _vm._v("Recover password")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "popover__legend" }, [
+                    _vm._v("Enter your email:")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "email",
+                        id: "recover-customer[recover_email]",
+                        name: "email",
+                        required: "required"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "recover-customer[recover_email]" }
+                      },
+                      [_vm._v("Email")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "button",
+                  {
+                    staticClass:
+                      "form__submit button button--primary button--full",
+                    attrs: { type: "submit" }
+                  },
+                  [_vm._v("Recover")]
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "popover__secondary-action" }, [
+              _c("p", [
+                _vm._v("Remembered your password? "),
+                _c(
+                  "button",
+                  {
+                    staticClass: "link link--accented",
+                    attrs: {
+                      "data-action": "show-popover-panel",
+                      "aria-controls": "header-login-panel"
+                    }
+                  },
+                  [_vm._v("Back to login")]
+                )
+              ])
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "popover__panel popover__panel--sliding",
+          attrs: { id: "header-register-panel" }
+        },
+        [
+          _c("div", { staticClass: "popover__inner" }, [
+            _c(
+              "form",
+              {
+                staticClass: "form",
+                attrs: {
+                  method: "post",
+                  action: "https://warehouse-theme-metal.myshopify.com/account",
+                  id: "create_customer",
+                  "accept-charset": "UTF-8",
+                  name: "create"
+                }
+              },
+              [
+                _c("input", {
+                  attrs: {
+                    type: "hidden",
+                    name: "form_type",
+                    value: "create_customer"
+                  }
+                }),
+                _c("input", {
+                  attrs: { type: "hidden", name: "utf8", value: "✓" }
+                }),
+                _vm._v(" "),
+                _c("header", { staticClass: "popover__header" }, [
+                  _c("h2", { staticClass: "popover__title heading" }, [
+                    _vm._v("Create my account")
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "popover__legend" }, [
+                    _vm._v("Please fill in the information below:")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "text",
+                        id: "customer[first_name]",
+                        name: "customer[first_name]",
+                        autocomplete: "given-name",
+                        required: "required"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "customer[first_name]" }
+                      },
+                      [_vm._v("First name")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "text",
+                        id: "customer[last_name]",
+                        name: "customer[last_name]",
+                        autocomplete: "family-name",
+                        required: "required"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "customer[last_name]" }
+                      },
+                      [_vm._v("Last name")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "email",
+                        id: "register-customer[email]",
+                        name: "customer[email]",
+                        required: "required"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "register-customer[email]" }
+                      },
+                      [_vm._v("Email")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "form__input-wrapper form__input-wrapper--labelled"
+                  },
+                  [
+                    _c("input", {
+                      staticClass: "form__field form__field--text",
+                      attrs: {
+                        type: "password",
+                        id: "register-customer[password]",
+                        name: "customer[password]",
+                        required: "required",
+                        autocomplete: "new-password"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      {
+                        staticClass: "form__floating-label",
+                        attrs: { for: "register-customer[password]" }
+                      },
+                      [_vm._v("Password")]
+                    )
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "button",
+                  {
+                    staticClass:
+                      "form__submit button button--primary button--full",
+                    attrs: { type: "submit" }
+                  },
+                  [
+                    _vm._v(
+                      "Create my\n                                      account"
+                    )
+                  ]
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "popover__secondary-action" }, [
+              _c("p", [
+                _vm._v("Already have an account? "),
+                _c(
+                  "button",
+                  {
+                    staticClass: "link link--accented",
+                    attrs: {
+                      "data-action": "show-popover-panel",
+                      "aria-controls": "header-login-panel"
+                    }
+                  },
+                  [_vm._v("Login here")]
+                )
+              ])
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "p",
+      { staticClass: "alert alert--tight alert--center text--strong" },
+      [
+        _vm._v("Spend "),
+        _c("span", [_vm._v("$80.00")]),
+        _vm._v(" more and get free\n                              shipping!")
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticClass: "mega-menu ",
+        attrs: {
+          id: "desktop-menu-0-1",
+          "data-type": "menu",
+          "aria-hidden": "true",
+          role: "list"
+        }
+      },
+      [
+        _c("div", { staticClass: "container" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "mega-menu__inner mega-menu__inner--center mega-menu__inner--large"
+            },
+            [
+              _c("div", { staticClass: "mega-menu__column" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mega-menu__title heading",
+                    attrs: { href: "collections.html" }
+                  },
+                  [_vm._v("Audio")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass: "mega-menu__linklist",
+                    attrs: { role: "list" }
+                  },
+                  [
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/headphones.html" }
+                        },
+                        [_vm._v("Headphones")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/earbuds.html" }
+                        },
+                        [_vm._v("Earbuds")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/portable-speakers.html" }
+                        },
+                        [_vm._v("Portable Speakers")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/turntables.html" }
+                        },
+                        [_vm._v("Turntables")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/walkmans.html" }
+                        },
+                        [_vm._v("Walkmans")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/audio-accessories.html" }
+                        },
+                        [_vm._v("Audio Accessories")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/audio.html" }
+                        },
+                        [_vm._v("Shop All")]
+                      )
+                    ])
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "mega-menu__column" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mega-menu__title heading",
+                    attrs: { href: "collections.html" }
+                  },
+                  [_vm._v("Hi-Fi")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass: "mega-menu__linklist",
+                    attrs: { role: "list" }
+                  },
+                  [
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/speakers.html" }
+                        },
+                        [_vm._v("Speakers")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/subwoofers.html" }
+                        },
+                        [_vm._v("Subwoofers")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/sound-bars.html" }
+                        },
+                        [_vm._v("Sound Bars")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/amplifiers.html" }
+                        },
+                        [_vm._v("Amplifiers")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/home-cinema.html" }
+                        },
+                        [_vm._v("Home Cinema")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/a-v-receivers.html" }
+                        },
+                        [_vm._v("A/V Receivers")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/hi-fi.html" }
+                        },
+                        [_vm._v("Shop All")]
+                      )
+                    ])
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "mega-menu__column" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mega-menu__title heading",
+                    attrs: { href: "collections.html" }
+                  },
+                  [_vm._v("TV & Entertainment")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass: "mega-menu__linklist",
+                    attrs: { role: "list" }
+                  },
+                  [
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/led-tvs.html" }
+                        },
+                        [_vm._v("LED TVs")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/oled-tvs.html" }
+                        },
+                        [_vm._v("OLED TVs")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/projectors.html" }
+                        },
+                        [_vm._v("Projectors")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: {
+                            href: "collections/blu-ray-dvd-players.html"
+                          }
+                        },
+                        [
+                          _vm._v(
+                            "Blu-Ray & DVD\n                                    Players"
+                          )
+                        ]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/tv-accessories.html" }
+                        },
+                        [_vm._v("TV Accessories")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/tv-entertainment.html" }
+                        },
+                        [_vm._v("Shop All")]
+                      )
+                    ])
+                  ]
+                )
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "mega-menu__column" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mega-menu__title heading",
+                    attrs: { href: "collections.html" }
+                  },
+                  [_vm._v("Our Selection")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "ul",
+                  {
+                    staticClass: "mega-menu__linklist",
+                    attrs: { role: "list" }
+                  },
+                  [
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/waterproof.html" }
+                        },
+                        [_vm._v("Waterproof")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/portable.html" }
+                        },
+                        [_vm._v("Portable")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/bluetooth.html" }
+                        },
+                        [_vm._v("Bluetooth")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/accessories.html" }
+                        },
+                        [_vm._v("Accessories")]
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "mega-menu__item" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "mega-menu__link link",
+                          attrs: { href: "collections/professional-audio.html" }
+                        },
+                        [
+                          _vm._v(
+                            "Professional\n                                    Audio"
+                          )
+                        ]
+                      )
+                    ])
+                  ]
+                )
+              ]),
+              _c(
+                "a",
+                {
+                  staticClass: "mega-menu__promo",
+                  attrs: {
+                    href: "collections/portable-speakers/brand_jbl.html"
+                  }
+                },
+                [
+                  _c("div", { staticClass: "mega-menu__image-wrapper" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "aspect-ratio",
+                        staticStyle: { "padding-bottom": "66.66666666666667%" }
+                      },
+                      [
+                        _c("img", {
+                          staticClass: "lazyload image--fade-in",
+                          attrs: {
+                            "data-src":
+                              "//cdn.shopify.com/s/files/1/0065/3095/7363/files/Header---2_550x.jpg?v=1559433650",
+                            alt: ""
+                          }
+                        })
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    { staticClass: "mega-menu__image-heading heading h4" },
+                    [_vm._v("New JBL Portable Speakers")]
+                  ),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "mega-menu__image-text" }, [
+                    _vm._v("From $39.95 only!")
+                  ])
+                ]
+              )
+            ]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: {
+            href: "collections/new-arrivals.html",
+            "data-type": "menuitem"
+          }
+        },
+        [_vm._v("New Arrivals")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: { href: "collections/sales.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Sales")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: { href: "collections.html", "data-type": "menuitem" }
+        },
+        [_vm._v("All\n                        Collections")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: { href: "pages/brands.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Brands")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "ul",
+      {
+        staticClass: "nav-dropdown nav-dropdown--restrict",
+        attrs: {
+          id: "desktop-menu-0-6",
+          "data-type": "menu",
+          "aria-hidden": "true",
+          role: "list"
+        }
+      },
+      [
+        _c("li", { staticClass: "nav-dropdown__item " }, [
+          _c(
+            "a",
+            {
+              staticClass: "nav-dropdown__link link",
+              attrs: {
+                href: "pages/meet-the-team.html",
+                "data-type": "menuitem"
+              }
+            },
+            [_vm._v("Meet the team")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("li", { staticClass: "nav-dropdown__item " }, [
+          _c(
+            "a",
+            {
+              staticClass: "nav-dropdown__link link",
+              attrs: { href: "pages/about.html", "data-type": "menuitem" }
+            },
+            [_vm._v("About")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("li", { staticClass: "nav-dropdown__item " }, [
+          _c(
+            "a",
+            {
+              staticClass: "nav-dropdown__link link",
+              attrs: { href: "pages/faq.html", "data-type": "menuitem" }
+            },
+            [_vm._v("FAQ")]
+          )
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: { href: "blogs/news.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Blog")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "nav-bar__item" }, [
+      _c(
+        "a",
+        {
+          staticClass: "nav-bar__link link",
+          attrs: { href: "pages/contact-us.html", "data-type": "menuitem" }
+        },
+        [_vm._v("Contact")]
+      )
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -48295,42 +54670,5071 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c(
-    "app-layout",
-    {
-      scopedSlots: _vm._u([
+  return _c("app-layout", [
+    _c("main", { attrs: { id: "main", role: "main" } }, [
+      _c(
+        "div",
         {
-          key: "header",
-          fn: function() {
-            return [
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-slideshow" }
+        },
+        [
+          _c(
+            "section",
+            {
+              attrs: {
+                "data-section-id": "slideshow",
+                "data-section-type": "slideshow"
+              }
+            },
+            [
+              _c("div", [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "slideshow slideshow--medium slideshow--edge2edge",
+                    staticStyle: { color: "#ffffff" }
+                  },
+                  [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "slideshow__slide slideshow__slide--overlay is-selected",
+                        attrs: { id: "block-slide-0", "data-block-index": "0" }
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "slideshow__slide-inner slideshow__slide-inner--middle-center lazyload image--fade-in",
+                            attrs: {
+                              "data-bgset":
+                                "//cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones-mobile_600x800_crop_center.jpg?v=1560283467 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_800x.jpg?v=1560283265 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_1000x.jpg?v=1560283265 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_1200x.jpg?v=1560283265 1200w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_1400x.jpg?v=1560283265 1400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_1600x.jpg?v=1560283265 1600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/slide-1-headphones_1800x.jpg?v=1560283265 1800w",
+                              "data-sizes": "auto"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "slideshow__content-wrapper" },
+                              [
+                                _c("div", { staticClass: "container" }, [
+                                  _c(
+                                    "h2",
+                                    {
+                                      staticClass: "slideshow__title heading h1"
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Introducing: the Headphones Collection"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "p",
+                                    { staticClass: "slideshow__content" },
+                                    [
+                                      _vm._v(
+                                        "Discover our selection of the best headphones of the year"
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "slideshow__button button",
+                                      attrs: {
+                                        href: "collections/headphones.html"
+                                      }
+                                    },
+                                    [_vm._v("Shop All Headphones")]
+                                  )
+                                ])
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "slideshow__slide slideshow__slide--overlay ",
+                        attrs: {
+                          id: "block-1559492406477",
+                          "data-block-index": "1"
+                        }
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "slideshow__slide-inner slideshow__slide-inner--middle-right lazyload image--fade-in",
+                            attrs: {
+                              "data-bgset":
+                                "//cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-mobile_600x800_crop_center.jpg?v=1559492583 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_800x.jpg?v=1590837962 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_1000x.jpg?v=1590837962 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_1200x.jpg?v=1590837962 1200w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_1400x.jpg?v=1590837962 1400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_1600x.jpg?v=1590837962 1600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-10-desktop_2800x_1_1800x.jpg?v=1590837962 1800w",
+                              "data-sizes": "auto"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "slideshow__content-wrapper" },
+                              [
+                                _c("div", { staticClass: "container" }, [
+                                  _c(
+                                    "h2",
+                                    {
+                                      staticClass: "slideshow__title heading h1"
+                                    },
+                                    [_vm._v("New JBL Portable Speakers")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "p",
+                                    { staticClass: "slideshow__content" },
+                                    [
+                                      _vm._v(
+                                        "Discover the brand new speakers, by JBL"
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "slideshow__button button",
+                                      attrs: {
+                                        href:
+                                          "products/jbl-clip-3-portable-waterproof-wireless-bluetooth-speaker.html"
+                                      }
+                                    },
+                                    [_vm._v("Shop JBL Clip 3")]
+                                  )
+                                ])
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "slideshow__slide slideshow__slide--overlay ",
+                        attrs: {
+                          id: "block-1559490246919",
+                          "data-block-index": "2"
+                        }
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "slideshow__slide-inner slideshow__slide-inner--middle-left lazyload image--fade-in",
+                            attrs: {
+                              "data-bgset":
+                                "//cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-mobile_600x800_crop_center.jpg?v=1559490257 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_800x.jpg?v=1559490253 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_1000x.jpg?v=1559490253 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_1200x.jpg?v=1559490253 1200w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_1400x.jpg?v=1559490253 1400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_1600x.jpg?v=1559490253 1600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-3-desktop_1800x.jpg?v=1559490253 1800w",
+                              "data-sizes": "auto"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "slideshow__content-wrapper" },
+                              [
+                                _c("div", { staticClass: "container" }, [
+                                  _c(
+                                    "h2",
+                                    {
+                                      staticClass: "slideshow__title heading h1"
+                                    },
+                                    [_vm._v("Introducing brand new OLED TVs")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "p",
+                                    { staticClass: "slideshow__content" },
+                                    [
+                                      _vm._v(
+                                        "Discover all the masterpieces, selected by Warehouse"
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "slideshow__button button",
+                                      attrs: {
+                                        href: "collections/oled-tvs.html"
+                                      }
+                                    },
+                                    [_vm._v("Shop OLED TVs")]
+                                  )
+                                ])
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "slideshow__slide slideshow__slide--overlay ",
+                        attrs: {
+                          id: "block-1559492409954",
+                          "data-block-index": "3"
+                        }
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "slideshow__slide-inner slideshow__slide-inner--middle-center lazyload image--fade-in",
+                            attrs: {
+                              "data-bgset":
+                                "//cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide-4-mobile_a9038a60-db23-44d3-a9b7-e3c1e83bda1f_600x800_crop_center.jpg?v=1559494446 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_800x.jpg?v=1559495951 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_1000x.jpg?v=1559495951 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_1200x.jpg?v=1559495951 1200w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_1400x.jpg?v=1559495951 1400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_1600x.jpg?v=1559495951 1600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/Slide_4_desktop_1800x.jpg?v=1559495951 1800w",
+                              "data-sizes": "auto"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "slideshow__content-wrapper" },
+                              [
+                                _c("div", { staticClass: "container" }, [
+                                  _c(
+                                    "h2",
+                                    {
+                                      staticClass: "slideshow__title heading h1"
+                                    },
+                                    [
+                                      _vm._v(
+                                        "The best performing products in the world"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "p",
+                                    { staticClass: "slideshow__content" },
+                                    [
+                                      _vm._v(
+                                        "Our mission is to provide the best experience in the audio/video\n                          industry"
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "slideshow__button button",
+                                      attrs: { href: "collections/all.html" }
+                                    },
+                                    [_vm._v("Shop All")]
+                                  )
+                                ])
+                              ]
+                            )
+                          ]
+                        )
+                      ]
+                    )
+                  ]
+                )
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1559571186638" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "1559571186638",
+                "data-section-type": "promo-block"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c("div", { staticClass: "block-list" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "block-list__item  1/2--tablet-and-up 1/3--desk",
+                      attrs: { id: "block-1559571186638-1" }
+                    },
+                    [
+                      _c(
+                        "a",
+                        {
+                          staticClass:
+                            "promo-block promo-block--top-left  promo-block--small",
+                          attrs: { href: "collections/oled-tvs.html" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "promo-block__image-clip" },
+                            [
+                              _c("div", {
+                                staticClass:
+                                  "promo-block__image-wrapper  lazyload image--fade-in",
+                                attrs: {
+                                  "data-bgset":
+                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/files/promotion-tvs_x2000_dbeffac0-9a5c-4dd7-be82-4f390aec55f4_x480.png?v=1560276887 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/promotion-tvs_x2000_dbeffac0-9a5c-4dd7-be82-4f390aec55f4_x800.png?v=1560276887"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "promo-block__inner" }, [
+                            _c(
+                              "p",
+                              {
+                                staticClass: "promo-block__heading heading h3"
+                              },
+                              [_vm._v("OLED TVs")]
+                            ),
+                            _vm._v(" "),
+                            _c("p", { staticClass: "promo-block__content" }, [
+                              _vm._v("Exclusive offers on TVs until Dec 31."),
+                              _c("br"),
+                              _vm._v(
+                                "\n                        $100 off on every purchase"
+                              )
+                            ]),
+                            _c(
+                              "span",
+                              {
+                                staticClass:
+                                  "promo-block__cta button button--floating"
+                              },
+                              [_vm._v("Shop OLED\n                        TVs")]
+                            )
+                          ])
+                        ]
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "block-list__item  1/2--tablet-and-up 1/3--desk",
+                      attrs: { id: "block-1559571186638-0" }
+                    },
+                    [
+                      _c(
+                        "a",
+                        {
+                          staticClass:
+                            "promo-block promo-block--top-left  promo-block--small",
+                          attrs: { href: "collections/speakers.html" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "promo-block__image-clip" },
+                            [
+                              _c("div", {
+                                staticClass:
+                                  "promo-block__image-wrapper  lazyload image--fade-in",
+                                attrs: {
+                                  "data-bgset":
+                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/files/speakers-promotions_x2000_3cfa90d9-1e0d-4001-9c8f-e5ca69584bdc_x480.png?v=1560276874 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/speakers-promotions_x2000_3cfa90d9-1e0d-4001-9c8f-e5ca69584bdc_x800.png?v=1560276874"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "promo-block__inner" }, [
+                            _c(
+                              "p",
+                              {
+                                staticClass: "promo-block__heading heading h3"
+                              },
+                              [_vm._v("Speakers")]
+                            ),
+                            _vm._v(" "),
+                            _c("p", { staticClass: "promo-block__content" }, [
+                              _vm._v(
+                                "Explore our range of high-quality speakers."
+                              )
+                            ]),
+                            _c(
+                              "span",
+                              {
+                                staticClass:
+                                  "promo-block__cta button button--floating"
+                              },
+                              [_vm._v("Shop Speakers")]
+                            )
+                          ])
+                        ]
+                      )
+                    ]
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "block-list__item  1/2--tablet-and-up 1/3--desk",
+                      attrs: { id: "block-1559571186638-2" }
+                    },
+                    [
+                      _c(
+                        "a",
+                        {
+                          staticClass:
+                            "promo-block promo-block--top-left  promo-block--small",
+                          attrs: { href: "collections/headphones.html" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "promo-block__image-clip" },
+                            [
+                              _c("div", {
+                                staticClass:
+                                  "promo-block__image-wrapper  lazyload image--fade-in",
+                                attrs: {
+                                  "data-bgset":
+                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/files/promotion-headphones_x2000_f4667f82-fb70-4ba6-abba-f696a2f91d9f_x480.png?v=1560276862 [--phone] | //cdn.shopify.com/s/files/1/0065/3095/7363/files/promotion-headphones_x2000_f4667f82-fb70-4ba6-abba-f696a2f91d9f_x800.png?v=1560276862"
+                                }
+                              })
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "promo-block__inner" }, [
+                            _c(
+                              "p",
+                              {
+                                staticClass: "promo-block__heading heading h3"
+                              },
+                              [_vm._v("Headphones")]
+                            ),
+                            _vm._v(" "),
+                            _c("p", { staticClass: "promo-block__content" }, [
+                              _vm._v("Discover our new headphones."),
+                              _c("br"),
+                              _vm._v(
+                                "\n                        Up to 25% Off !"
+                              )
+                            ]),
+                            _c(
+                              "span",
+                              {
+                                staticClass:
+                                  "promo-block__cta button button--floating"
+                              },
+                              [_vm._v("Shop Headphones")]
+                            )
+                          ])
+                        ]
+                      )
+                    ]
+                  )
+                ])
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1559572127904" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "1559572127904",
+                "data-section-type": "offers"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c("div", { staticClass: "scroller" }, [
+                  _c("div", { staticClass: "scroller__inner" }, [
+                    _c("div", { staticClass: "block-list" }, [
+                      _c(
+                        "div",
+                        { staticClass: "block-list__item 1/2--lap-and-up" },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "offer-item offer-item--inline" },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "offer-item__image-wrapper" },
+                                [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass: "aspect-ratio",
+                                      staticStyle: {
+                                        "padding-bottom": "100.0%"
+                                      }
+                                    },
+                                    [
+                                      _c("img", {
+                                        staticClass: "lazyload image--fade-in",
+                                        attrs: {
+                                          "data-src":
+                                            "//cdn.shopify.com/s/files/1/0065/3095/7363/files/offer-1_2x_6ba50f80-1d2d-4361-a867-05ca0f32413c_250x.jpg?v=1559572262",
+                                          alt: ""
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("noscript", [
+                                        _c("img", {
+                                          attrs: {
+                                            src:
+                                              "/assets/offer-1_2x_6ba50f80-1d2d-4361-a867-05ca0f32413c_250x1934.jpg?v=1559572262",
+                                            alt: ""
+                                          }
+                                        })
+                                      ])
+                                    ]
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "offer-item__inner" }, [
+                                _c(
+                                  "p",
+                                  {
+                                    staticClass: "offer-item__title heading h4"
+                                  },
+                                  [_vm._v("Exclusive offers on JBL products")]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "offer-item__content rte" },
+                                  [
+                                    _c("p", [
+                                      _vm._v(
+                                        "We offer you a lot of discounts on all our JLB speakers, including JBL Clip 3, JBL Flip\n                              4 or JBL Link 20 !"
+                                      )
+                                    ])
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "div",
+                        { staticClass: "block-list__item 1/2--lap-and-up" },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "offer-item offer-item--inline" },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "offer-item__image-wrapper" },
+                                [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass: "aspect-ratio",
+                                      staticStyle: {
+                                        "padding-bottom": "100.0%"
+                                      }
+                                    },
+                                    [
+                                      _c("img", {
+                                        staticClass: "lazyload image--fade-in",
+                                        attrs: {
+                                          "data-src":
+                                            "//cdn.shopify.com/s/files/1/0065/3095/7363/files/offer-2_2x_26b533cd-d17a-43fe-97c8-8d0af50a398c_250x.jpg?v=1559572424",
+                                          alt: ""
+                                        }
+                                      }),
+                                      _vm._v(" "),
+                                      _c("noscript", [
+                                        _c("img", {
+                                          attrs: {
+                                            src:
+                                              "/assets/offer-2_2x_26b533cd-d17a-43fe-97c8-8d0af50a398c_250xd3d6.jpg?v=1559572424",
+                                            alt: ""
+                                          }
+                                        })
+                                      ])
+                                    ]
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "offer-item__inner" }, [
+                                _c(
+                                  "p",
+                                  {
+                                    staticClass: "offer-item__title heading h4"
+                                  },
+                                  [
+                                    _vm._v(
+                                      "Free shipping for all orders overs $80"
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  { staticClass: "offer-item__content rte" },
+                                  [
+                                    _c("p", [
+                                      _vm._v(
+                                        "We got you covered ! We deliver your goods using UPS expedited shipping, free of charge"
+                                      )
+                                    ])
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
+                        ]
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-collection-list" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "collection-list",
+                "data-section-type": "collection-list"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c("header", { staticClass: "section__header" }, [
+                  _c("h2", { staticClass: "section__title heading h3" }, [
+                    _vm._v("Popular categories")
+                  ]),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "section__action-link link",
+                      attrs: { href: "collections.html" }
+                    },
+                    [
+                      _vm._v("View all "),
+                      _c(
+                        "svg",
+                        {
+                          staticClass: "icon icon--tail-right",
+                          attrs: {
+                            focusable: "false",
+                            viewBox: "0 0 24 24",
+                            role: "presentation"
+                          }
+                        },
+                        [
+                          _c("path", {
+                            attrs: {
+                              fill: "currentColor",
+                              d:
+                                "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                            }
+                          })
+                        ]
+                      )
+                    ]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "scroller" }, [
+                  _c("div", { staticClass: "scroller__inner" }, [
+                    _c("div", { staticClass: "collection-list" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/headphones.html",
+                            "data-collection-index": "0"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/headphones-600_{width}x.jpg?v=1559570745",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/headphones-600_450x8935.jpg?v=1559570745",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Headphones "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/earbuds.html",
+                            "data-collection-index": "1"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/earbuds-600_abcad8d1-f772-47be-8de5-7b6e1dd45f03_{width}x.jpg?v=1559570781",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/earbuds-600_abcad8d1-f772-47be-8de5-7b6e1dd45f03_450x459c.jpg?v=1559570781",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Earbuds "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/speakers.html",
+                            "data-collection-index": "2"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/speakers-600_490fc860-32d7-4226-bb15-b319dfcad104_{width}x.jpg?v=1559570803",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/speakers-600_490fc860-32d7-4226-bb15-b319dfcad104_450x5cb3.jpg?v=1559570803",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Speakers "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/oled-tvs.html",
+                            "data-collection-index": "3"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/oled-tvs-600_1f8be815-fc56-40ee-81d4-a813eba17df2_{width}x.jpg?v=1559570835",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/oled-tvs-600_1f8be815-fc56-40ee-81d4-a813eba17df2_450xbab5.jpg?v=1559570835",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("OLED TVs "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/turntables.html",
+                            "data-collection-index": "4"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/turntables-600_7f5b0d89-9873-45ce-a0da-5bc6907ed9d8_{width}x.jpg?v=1559570860",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/turntables-600_7f5b0d89-9873-45ce-a0da-5bc6907ed9d8_450x8a68.jpg?v=1559570860",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Turntables "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/subwoofers.html",
+                            "data-collection-index": "5"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/subwoofers-600_2406ccc6-33ce-4565-aa2f-aa0079f816e5_{width}x.jpg?v=1559570818",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/subwoofers-600_2406ccc6-33ce-4565-aa2f-aa0079f816e5_450x8d01.jpg?v=1559570818",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Subwoofers "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/tv-accessories.html",
+                            "data-collection-index": "6"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/tv-accessories-600_89ff24e3-abd2-411e-9012-9688654ccc4e_{width}x.jpg?v=1559570883",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/tv-accessories-600_89ff24e3-abd2-411e-9012-9688654ccc4e_450x0e17.jpg?v=1559570883",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("TV Accessories "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      ),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "collection-item",
+                          attrs: {
+                            href: "collections/amplifiers.html",
+                            "data-collection-index": "7"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass:
+                                "collection-item__image-wrapper collection-item__image-wrapper--rounded"
+                            },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "100%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "//cdn.shopify.com/s/files/1/0065/3095/7363/files/amplifiers-600_969cae5b-7025-4eca-9629-166de542116c_{width}x.jpg?v=1559570914",
+                                      "data-widths": "[300,400,500,600]",
+                                      "data-sizes": "auto",
+                                      alt: ""
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/amplifiers-600_969cae5b-7025-4eca-9629-166de542116c_450x9e50.jpg?v=1559570914",
+                                        alt: ""
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          ),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "collection-item__title text--strong"
+                            },
+                            [
+                              _vm._v("Amplifiers "),
+                              _c(
+                                "svg",
+                                {
+                                  staticClass: "icon icon--tail-right",
+                                  attrs: {
+                                    focusable: "false",
+                                    viewBox: "0 0 24 24",
+                                    role: "presentation"
+                                  }
+                                },
+                                [
+                                  _c("path", {
+                                    attrs: {
+                                      fill: "currentColor",
+                                      d:
+                                        "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1542984811767" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "1542984811767",
+                "data-section-type": "featured-collection"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c("header", { staticClass: "section__header" }, [
+                  _c("div", { staticClass: "section__header-stack" }, [
+                    _c("h2", { staticClass: "section__title heading h3" }, [
+                      _vm._v("Deal zone")
+                    ])
+                  ]),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "section__action-link link",
+                      attrs: { href: "collections/sales.html" }
+                    },
+                    [
+                      _vm._v("View all sales "),
+                      _c(
+                        "svg",
+                        {
+                          staticClass: "icon icon--tail-right",
+                          attrs: {
+                            focusable: "false",
+                            viewBox: "0 0 24 24",
+                            role: "presentation"
+                          }
+                        },
+                        [
+                          _c("path", {
+                            attrs: {
+                              fill: "currentColor",
+                              d:
+                                "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                            }
+                          })
+                        ]
+                      )
+                    ]
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "container " }, [
+                _c("div", { staticClass: "scroller" }, [
+                  _c("div", { staticClass: "scroller__inner" }, [
+                    _c(
+                      "div",
+                      {
+                        staticClass:
+                          "product-list product-list--vertical product-list--scrollable"
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$800.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/sony-xbr-65x950g-65-class-64-5-diag-bravia-4k-hdr-ultra-hd-tv"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744985419827",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/sonyxbr55front_f72cc8ff-fcd6-4141-b9cc-e1320f867785_{width}x.jpg?v=1570074258",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt:
+                                          "Sony XBR-950G BRAVIA 4K HDR Ultra HD TV"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt:
+                                            "Sony XBR-950G BRAVIA 4K HDR Ultra HD TV"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: { href: "collections/sony.html" }
+                                    },
+                                    [_vm._v("Sony")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/sony-xbr-65x950g-65-class-64-5-diag-bravia-4k-hdr-ultra-hd-tv"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Sony XBR-950G BRAVIA 4K HDR Ultra HD TV"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("From "),
+                                          _c("span", [_vm._v("$1,398.00")])
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$2,198.00")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/sony-xbr-65x950g-65-class-64-5-diag-bravia-4k-hdr-ultra-hd-tv#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916221128755" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 77 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$25.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/jbl-flip-4-waterproof-portable-bluetooth-speaker"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744880529459",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13549_790__2_73a2a189-b3d5-4ec8-a4c3-b506e1beab70_{width}x.jpg?v=1570074237",
+                                        "data-sizes": "auto",
+                                        "data-widths": "[200,300,400,500]",
+                                        alt: "#color_camouflage"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt: "#color_camouflage"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: { href: "collections/jbl.html" }
+                                    },
+                                    [_vm._v("JBL")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/jbl-flip-4-waterproof-portable-bluetooth-speaker"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "JBL Flip 4 Waterproof Portable Bluetooth\n                            Speaker"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass: "product-item__swatch-list"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        { staticClass: "color-swatch-list" },
+                                        [
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-1",
+                                                  value: "Black",
+                                                  checked: "checked",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970440243",
+                                                  "data-media-id":
+                                                    "2744880594995",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13124_608__2_2330a5b1-0aeb-4b20-a669-d6d1ce580b5d_{width}x.jpg?v=1570074237",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Black"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-1",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/black_64x64.png?v=1559050383",
+                                                    title: "Black"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Black")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+7")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-2",
+                                                  value: "Blue",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970473011",
+                                                  "data-media-id":
+                                                    "2744880726067",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13129_027__5_bb3681f8-a10e-4ace-8d92-5c5223b2b469_{width}x.jpg?v=1570074237",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Blue"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-2",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/blue_64x64.png?v=1559050357",
+                                                    title: "Blue"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Blue")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+6")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-3",
+                                                  value: "Grey",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970505779",
+                                                  "data-media-id":
+                                                    "2744880988211",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13127_820__5_7981ed31-f26d-4264-bcb6-403d49d4da49_{width}x.jpg?v=1570074237",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Grey"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  staticStyle: {
+                                                    "background-color": "grey"
+                                                  },
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-3",
+                                                    title: "Grey"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Grey")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+5")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-4",
+                                                  value: "Red",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970538547",
+                                                  "data-media-id":
+                                                    "2744881250355",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13126_791__2_49ac2f0f-c528-415e-ad8a-5a3038107c30_{width}x.jpg?v=1570074237",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Red"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-4",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/red_64x64.png?v=1559050356",
+                                                    title: "Red"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Red")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+4")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-5",
+                                                  value: "Teal",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970571315",
+                                                  "data-media-id":
+                                                    "2744881774643",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13128_440__4_c057764d-6ebe-49d0-8e42-41bb28adc1ba_{width}x.jpg?v=1570074238",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Teal"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-5",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/teal_64x64.png?v=1559050364",
+                                                    title: "Teal"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Teal")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+3")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass:
+                                                "color-swatch color-swatch--white"
+                                            },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-6",
+                                                  value: "White",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970604083",
+                                                  "data-media-id":
+                                                    "2744881905715",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13125_813__1_755b6e3e-5ed1-46b4-8f37-95855b279575_{width}x.jpg?v=1570074238",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "White"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  staticStyle: {
+                                                    "background-color": "white"
+                                                  },
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-6",
+                                                    title: "White"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("White")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+2")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916176597043",
+                                                  id:
+                                                    "1542984811767-1916176597043-7",
+                                                  value: "Camouflage",
+                                                  "data-variant-url":
+                                                    "/products/jbl-flip-4-waterproof-portable-bluetooth-speaker?variant=17549970636851",
+                                                  "data-media-id":
+                                                    "2744880529459",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/13549_790__2_73a2a189-b3d5-4ec8-a4c3-b506e1beab70_{width}x.jpg?v=1570074237",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Camouflage"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916176597043-7",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/camouflage_64x64.png?v=1559050370",
+                                                    title: "Camouflage"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Camouflage")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-flip-4-waterproof-portable-bluetooth-speaker.html"
+                                                  }
+                                                },
+                                                [_vm._v("+1")]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$74.95")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$99.95")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/jbl-flip-4-waterproof-portable-bluetooth-speaker#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916176597043" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 672 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$100.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/sony-ps-hx500-hi-res-usb-turntable.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2748895199283",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/11910_163__1_d6abac00-2eb0-4f32-ab5b-40a3b1be2c70_{width}x.jpg?v=1570075462",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt:
+                                          "Sony PS-HX500 Hi-Res USB Turntable"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt:
+                                            "Sony PS-HX500 Hi-Res USB Turntable"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: { href: "collections/sony.html" }
+                                    },
+                                    [_vm._v("Sony")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/sony-ps-hx500-hi-res-usb-turntable.html"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Sony PS-HX500 Hi-Res USB Turntable"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$398.00")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$498.00")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/sony-ps-hx500-hi-res-usb-turntable.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916218409011" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 15 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$30.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/denon-ah-c720-in-ear-headphones.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744852054067",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/12678_869__1_1500x_b9a505f9-8986-45bf-a73b-5950c9008349_{width}x.jpg?v=1570074232",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt: "#color_silver"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt: "#color_silver"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: { href: "collections/denon.html" }
+                                    },
+                                    [_vm._v("Denon")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/denon-ah-c720-in-ear-headphones.html"
+                                      }
+                                    },
+                                    [_vm._v("Denon AH-C720 In-Ear Headphones")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass: "product-item__swatch-list"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        { staticClass: "color-swatch-list" },
+                                        [
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916163981363",
+                                                  id:
+                                                    "1542984811767-1916163981363-1",
+                                                  value: "Silver",
+                                                  checked: "checked",
+                                                  "data-variant-url":
+                                                    "/products/denon-ah-c720-in-ear-headphones?variant=17549889667123",
+                                                  "data-media-id":
+                                                    "2744852054067",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/12678_869__1_1500x_b9a505f9-8986-45bf-a73b-5950c9008349_{width}x.jpg?v=1570074232",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Silver"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916163981363-1",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/silver_64x64.png?v=1559050356",
+                                                    title: "Silver"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Silver")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/denon-ah-c720-in-ear-headphones.html"
+                                                  }
+                                                },
+                                                [_vm._v("+2")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916163981363",
+                                                  id:
+                                                    "1542984811767-1916163981363-2",
+                                                  value: "Black",
+                                                  "data-variant-url":
+                                                    "/products/denon-ah-c720-in-ear-headphones?variant=17549889699891",
+                                                  "data-media-id":
+                                                    "2744852119603",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/12677_068__1_1_f1b5f393-0873-4968-ac1e-e98d9b7db007_{width}x.jpg?v=1570074232",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Black"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916163981363-2",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/black_64x64.png?v=1559050383",
+                                                    title: "Black"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Black")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/denon-ah-c720-in-ear-headphones.html"
+                                                  }
+                                                },
+                                                [_vm._v("+1")]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$119.00")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$149.00")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/denon-ah-c720-in-ear-headphones.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916163981363" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 236 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--custom2"
+                                  },
+                                  [
+                                    _vm._v(
+                                      "Our\n                          Selection"
+                                    )
+                                  ]
+                                ),
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$125.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/klipsch-r-120sw-powerful-detailed-home-speaker-set-of-1.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744912314419",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/810r40dvucl._sl1500_301f6862-d310-4a4f-b4c0-8e06cb9be769_{width}x.jpg?v=1570074243",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt:
+                                          "Klipsch R-120SW Powerful Detailed Home Speaker - Unit"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt:
+                                            "Klipsch R-120SW Powerful Detailed Home Speaker - Unit"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: {
+                                        href: "collections/klipsch.html"
+                                      }
+                                    },
+                                    [_vm._v("Klipsch")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/klipsch-r-120sw-powerful-detailed-home-speaker-set-of-1.html"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Klipsch R-120SW Powerful Detailed Home Speaker -\n                            Unit"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$324.00")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$449.00")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/klipsch-r-120sw-powerful-detailed-home-speaker-set-of-1.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916184985651" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory"
+                                    },
+                                    [_vm._v("Sold out")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$50.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/pioneer-high-performance-hi-res-balanced-wired-in-ear-headphones-se-ch5blk.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744944951347",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16892_375__1_20de2da5-237a-4403-b3c5-7b3584ef76ab_{width}x.jpg?v=1570074250",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt:
+                                          "Pioneer High Performance Hi-Res Balanced Wired In-Ear Headphones SE-CH5BL(K)"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt:
+                                            "Pioneer High Performance Hi-Res Balanced Wired In-Ear Headphones SE-CH5BL(K)"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: {
+                                        href: "collections/pioneer.html"
+                                      }
+                                    },
+                                    [_vm._v("Pioneer")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/pioneer-high-performance-hi-res-balanced-wired-in-ear-headphones-se-ch5blk.html"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Pioneer High Performance Hi-Res Balanced Wired\n                            In-Ear Headphones SE-CH5BL(K)"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$39.99")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$89.99")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/pioneer-high-performance-hi-res-balanced-wired-in-ear-headphones-se-ch5blk.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916203892787" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 131 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save\n                          "),
+                                    _c("span", [_vm._v("$50.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/klipsch-r-52c-powerful-detailed-center-channel-home-speaker.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744913264691",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/81sbro_2babil._sl1500_fdfcd084-5e31-44fe-b259-c4f6024858ad_{width}x.jpg?v=1570074243",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt:
+                                          "Klipsch R-52C Powerful Detailed Center Channel Home Speaker - Unit"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt:
+                                            "Klipsch R-52C Powerful Detailed Center Channel Home Speaker - Unit"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: {
+                                        href: "collections/klipsch.html"
+                                      }
+                                    },
+                                    [_vm._v("Klipsch")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/klipsch-r-52c-powerful-detailed-center-channel-home-speaker.html"
+                                      }
+                                    },
+                                    [
+                                      _vm._v(
+                                        "Klipsch R-52C Powerful Detailed Center Channel\n                            Home Speaker - Unit"
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$199.00")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$249.00")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/klipsch-r-52c-powerful-detailed-center-channel-home-speaker.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916185378867" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 100 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "product-item product-item--vertical  1/4--lap 1/5--desk 1/6--wide"
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "product-item__label-list" },
+                              [
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--custom2"
+                                  },
+                                  [
+                                    _vm._v(
+                                      "Our\n                          Selection"
+                                    )
+                                  ]
+                                ),
+                                _c(
+                                  "span",
+                                  {
+                                    staticClass:
+                                      "product-label product-label--on-sale"
+                                  },
+                                  [
+                                    _vm._v("Save "),
+                                    _c("span", [_vm._v("$8.00")])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _c(
+                              "a",
+                              {
+                                staticClass: "product-item__image-wrapper ",
+                                attrs: {
+                                  href:
+                                    "collections/sales-home/products/jbl-tune-205bt-wireless-earbuds.html"
+                                }
+                              },
+                              [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "aspect-ratio aspect-ratio--square",
+                                    staticStyle: { "padding-bottom": "100.0%" }
+                                  },
+                                  [
+                                    _c("img", {
+                                      staticClass:
+                                        "product-item__primary-image lazyload image--fade-in",
+                                      attrs: {
+                                        "data-media-id": "2744898781235",
+                                        "data-src":
+                                          "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16433_260__1_31173a53-f655-43f9-bfbd-bf02365e0401_{width}x.jpg?v=1570074241",
+                                        "data-sizes": "auto",
+                                        "data-widths":
+                                          "[200,300,400,500,600,700,800]",
+                                        alt: "#color_black"
+                                      }
+                                    }),
+                                    _c("noscript", [
+                                      _c("img", {
+                                        attrs: {
+                                          src:
+                                            "/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif",
+                                          alt: "#color_black"
+                                        }
+                                      })
+                                    ])
+                                  ]
+                                )
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "product-item__info" }, [
+                              _c(
+                                "div",
+                                { staticClass: "product-item__info-inner" },
+                                [
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass: "product-item__vendor link",
+                                      attrs: { href: "collections/jbl.html" }
+                                    },
+                                    [_vm._v("JBL")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__title text--strong link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/jbl-tune-205bt-wireless-earbuds.html"
+                                      }
+                                    },
+                                    [_vm._v("JBL Tune 205BT Wireless Earbuds")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass: "product-item__swatch-list"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        { staticClass: "color-swatch-list" },
+                                        [
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916180594739",
+                                                  id:
+                                                    "1542984811767-1916180594739-1",
+                                                  value: "Black",
+                                                  checked: "checked",
+                                                  "data-variant-url":
+                                                    "/products/jbl-tune-205bt-wireless-earbuds?variant=17550010581043",
+                                                  "data-media-id":
+                                                    "2744898781235",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16433_260__1_31173a53-f655-43f9-bfbd-bf02365e0401_{width}x.jpg?v=1570074241",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Black"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916180594739-1",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/black_64x64.png?v=1559050383",
+                                                    title: "Black"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Black")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-tune-205bt-wireless-earbuds.html"
+                                                  }
+                                                },
+                                                [_vm._v("+5")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916180594739",
+                                                  id:
+                                                    "1542984811767-1916180594739-2",
+                                                  value: "Blue",
+                                                  "data-variant-url":
+                                                    "/products/jbl-tune-205bt-wireless-earbuds?variant=17550010613811",
+                                                  "data-media-id":
+                                                    "2744898879539",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16437_354__3_c0ddc77d-32c1-4bfd-bbb3-6aac28ed67f0_{width}x.jpg?v=1570074241",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Blue"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916180594739-2",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/blue_64x64.png?v=1559050357",
+                                                    title: "Blue"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Blue")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-tune-205bt-wireless-earbuds.html"
+                                                  }
+                                                },
+                                                [_vm._v("+4")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916180594739",
+                                                  id:
+                                                    "1542984811767-1916180594739-3",
+                                                  value: "Champagne Gold",
+                                                  "data-variant-url":
+                                                    "/products/jbl-tune-205bt-wireless-earbuds?variant=17550010646579",
+                                                  "data-media-id":
+                                                    "2744898977843",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16435_220__2_178cdf81-9ad2-4db0-8dbc-e1d31e35d93c_{width}x.jpg?v=1570074241",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Champagne Gold"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916180594739-3",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/champagne-gold_64x64.png?v=1559552175",
+                                                    title: "Champagne Gold"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Champagne Gold")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-tune-205bt-wireless-earbuds.html"
+                                                  }
+                                                },
+                                                [_vm._v("+3")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916180594739",
+                                                  id:
+                                                    "1542984811767-1916180594739-4",
+                                                  value: "Green",
+                                                  "data-variant-url":
+                                                    "/products/jbl-tune-205bt-wireless-earbuds?variant=17550010679347",
+                                                  "data-media-id":
+                                                    "2744899076147",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16438_414__3_c16f482e-fd80-4185-bd0f-db61632e346b_{width}x.jpg?v=1570074241",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Green"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916180594739-4",
+                                                    "data-bg":
+                                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/green_64x64.png?v=1559050385",
+                                                    title: "Green"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Green")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-tune-205bt-wireless-earbuds.html"
+                                                  }
+                                                },
+                                                [_vm._v("+2")]
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            { staticClass: "color-swatch " },
+                                            [
+                                              _c("input", {
+                                                staticClass:
+                                                  "color-swatch__radio",
+                                                attrs: {
+                                                  type: "radio",
+                                                  name:
+                                                    "1542984811767-1916180594739",
+                                                  id:
+                                                    "1542984811767-1916180594739-5",
+                                                  value: "Rose Gold",
+                                                  "data-variant-url":
+                                                    "/products/jbl-tune-205bt-wireless-earbuds?variant=17550010712115",
+                                                  "data-media-id":
+                                                    "2744899239987",
+                                                  "data-image-url":
+                                                    "//cdn.shopify.com/s/files/1/0065/3095/7363/products/16436_784__2_bb89f91e-119f-46bf-98ed-def2d52a5315_{width}x.jpg?v=1570074241",
+                                                  "data-image-widths":
+                                                    "[200,300,400,500,600,700,800]",
+                                                  "data-image-aspect-ratio":
+                                                    "1.0",
+                                                  "aria-label": "Rose Gold"
+                                                }
+                                              }),
+                                              _vm._v(" "),
+                                              _c(
+                                                "label",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item lazyload",
+                                                  staticStyle: {
+                                                    "background-color":
+                                                      "rosegold"
+                                                  },
+                                                  attrs: {
+                                                    for:
+                                                      "1542984811767-1916180594739-5",
+                                                    title: "Rose Gold"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "span",
+                                                    {
+                                                      staticClass:
+                                                        "visually-hidden"
+                                                    },
+                                                    [_vm._v("Rose Gold")]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "a",
+                                                {
+                                                  staticClass:
+                                                    "color-swatch__item-link",
+                                                  attrs: {
+                                                    href:
+                                                      "products/jbl-tune-205bt-wireless-earbuds.html"
+                                                  }
+                                                },
+                                                [_vm._v("+1")]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "product-item__price-list price-list"
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass: "price price--highlight"
+                                        },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Sale price")]
+                                          ),
+                                          _vm._v("$31.95")
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        { staticClass: "price price--compare" },
+                                        [
+                                          _c(
+                                            "span",
+                                            { staticClass: "visually-hidden" },
+                                            [_vm._v("Regular price")]
+                                          ),
+                                          _vm._v("$39.95")
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "a",
+                                    {
+                                      staticClass:
+                                        "product-item__reviews-badge link",
+                                      attrs: {
+                                        href:
+                                          "collections/sales-home/products/jbl-tune-205bt-wireless-earbuds.html#product-reviews"
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "span",
+                                        { staticClass: "visually-hidden" },
+                                        [_vm._v("Reviews")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "shopify-product-reviews-badge",
+                                          attrs: { "data-id": "1916180594739" }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass: "spr-badge",
+                                              staticStyle: { opacity: "0" }
+                                            },
+                                            [
+                                              _c(
+                                                "span",
+                                                {
+                                                  staticClass:
+                                                    "spr-starrating spr-badge-starrating"
+                                                },
+                                                [
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  }),
+                                                  _vm._v(" "),
+                                                  _c("i", {
+                                                    staticClass:
+                                                      "spr-icon spr-icon-star-empty"
+                                                  })
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "product-item__inventory inventory inventory--high"
+                                    },
+                                    [_vm._v("In stock, 444 units")]
+                                  )
+                                ]
+                              )
+                            ])
+                          ]
+                        )
+                      ]
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
               _c(
-                "h2",
+                "div",
                 {
-                  staticClass:
-                    "font-semibold text-xl text-gray-800 leading-tight"
+                  staticClass: "modal",
+                  attrs: {
+                    id: "modal-quick-view-1542984811767",
+                    "aria-hidden": "true"
+                  }
                 },
-                [_vm._v("\n            Dashboard\n        ")]
+                [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "modal__dialog modal__dialog--stretch",
+                      attrs: { role: "dialog" }
+                    },
+                    [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "modal__close link",
+                          attrs: {
+                            "data-action": "close-modal",
+                            title: "Close"
+                          }
+                        },
+                        [
+                          _c(
+                            "svg",
+                            {
+                              staticClass: "icon icon--close",
+                              attrs: {
+                                focusable: "false",
+                                viewBox: "0 0 19 19",
+                                role: "presentation"
+                              }
+                            },
+                            [
+                              _c("path", {
+                                attrs: {
+                                  d:
+                                    "M9.1923882 8.39339828l7.7781745-7.7781746 1.4142136 1.41421357-7.7781746 7.77817459 7.7781746 7.77817456L16.9705627 19l-7.7781745-7.7781746L1.41421356 19 0 17.5857864l7.7781746-7.77817456L0 2.02943725 1.41421356.61522369 9.1923882 8.39339828z",
+                                  fill: "currentColor",
+                                  "fill-rule": "evenodd"
+                                }
+                              })
+                            ]
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "modal__loader" }, [
+                        _c(
+                          "svg",
+                          {
+                            staticClass: "icon icon--search-loader",
+                            attrs: {
+                              focusable: "false",
+                              viewBox: "0 0 64 64",
+                              role: "presentation"
+                            }
+                          },
+                          [
+                            _c("path", {
+                              attrs: {
+                                opacity: ".4",
+                                d:
+                                  "M23.8589104 1.05290547C40.92335108-3.43614731 58.45816642 6.79494359 62.94709453 23.8589104c4.48905278 17.06444068-5.74156424 34.59913135-22.80600493 39.08818413S5.54195825 57.2055303 1.05290547 40.1410896C-3.43602265 23.0771228 6.7944697 5.54195825 23.8589104 1.05290547zM38.6146353 57.1445143c13.8647142-3.64731754 22.17719655-17.89443541 18.529879-31.75914961-3.64743965-13.86517841-17.8944354-22.17719655-31.7591496-18.529879S3.20804604 24.7494569 6.8554857 38.6146353c3.64731753 13.8647142 17.8944354 22.17719655 31.7591496 18.529879z"
+                              }
+                            }),
+                            _vm._v(" "),
+                            _c("path", {
+                              attrs: {
+                                d:
+                                  "M1.05290547 40.1410896l5.80258022-1.5264543c3.64731754 13.8647142 17.89443541 22.17719655 31.75914961 18.529879l1.5264543 5.80258023C23.07664892 67.43614731 5.54195825 57.2055303 1.05290547 40.1410896z"
+                              }
+                            })
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "modal__inner" })
+                    ]
+                  )
+                ]
               )
             ]
-          },
-          proxy: true
-        }
-      ])
-    },
-    [
-      _vm._v(" "),
-      _c("div", { staticClass: "py-12" }, [
-        _c("div", { staticClass: "max-w-7xl mx-auto sm:px-6 lg:px-8" }, [
-          _c(
-            "div",
-            { staticClass: "bg-white overflow-hidden shadow-xl sm:rounded-lg" },
-            [_c("welcome")],
-            1
           )
-        ])
-      ])
-    ]
-  )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1559483991699" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "1559483991699",
+                "data-section-type": "mosaic"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "mosaic mosaic--medium mosaic--three-columns"
+                  },
+                  [
+                    _c("div", { staticClass: "mosaic__column" }, [
+                      _c("div", { staticClass: "mosaic__item" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "promo-block promo-block--top-left ",
+                            attrs: {
+                              href: "collections/bluetooth.html",
+                              id: "block-1559483991699-0"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "promo-block__image-clip" },
+                              [
+                                _c("div", {
+                                  staticClass:
+                                    "promo-block__image-wrapper promo-block__image-wrapper--cover lazyload image--fade-in",
+                                  attrs: {
+                                    "data-bgset":
+                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/bluetooth-red_f7adb5c3-0506-4481-b8ee-aa20422d1d2f_400x.png?v=1559642989 400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/bluetooth-red_f7adb5c3-0506-4481-b8ee-aa20422d1d2f_600x.png?v=1559642989 600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/bluetooth-red_f7adb5c3-0506-4481-b8ee-aa20422d1d2f_800x.png?v=1559642989 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/bluetooth-red_f7adb5c3-0506-4481-b8ee-aa20422d1d2f_1000x.png?v=1559642989 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/bluetooth-red_f7adb5c3-0506-4481-b8ee-aa20422d1d2f_1200x.png?v=1559642989 1200w",
+                                    "data-sizes": "auto"
+                                  }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "promo-block__inner" }, [
+                              _c(
+                                "p",
+                                {
+                                  staticClass: "promo-block__heading heading h3"
+                                },
+                                [_vm._v("Bluetooth")]
+                              ),
+                              _vm._v(" "),
+                              _c("p", { staticClass: "promo-block__content" }, [
+                                _vm._v(
+                                  "Feel the freedom with our Bluetooth headphones and speakers."
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "span",
+                                {
+                                  staticClass:
+                                    "promo-block__cta button button--floating"
+                                },
+                                [_vm._v("Shop Now")]
+                              )
+                            ])
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "mosaic__item" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "promo-block promo-block--top-left ",
+                            attrs: {
+                              href: "collections/professional-audio.html",
+                              id: "block-1559483991699-1"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "promo-block__image-clip" },
+                              [
+                                _c("div", {
+                                  staticClass:
+                                    "promo-block__image-wrapper promo-block__image-wrapper--cover lazyload image--fade-in",
+                                  attrs: {
+                                    "data-bgset":
+                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-audio_04cd57f4-2a11-47e3-bd88-0231bc0618f0_400x.jpg?v=1559724114 400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-audio_04cd57f4-2a11-47e3-bd88-0231bc0618f0_600x.jpg?v=1559724114 600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-audio_04cd57f4-2a11-47e3-bd88-0231bc0618f0_800x.jpg?v=1559724114 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-audio_04cd57f4-2a11-47e3-bd88-0231bc0618f0_1000x.jpg?v=1559724114 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-audio_04cd57f4-2a11-47e3-bd88-0231bc0618f0_1200x.jpg?v=1559724114 1200w",
+                                    "data-sizes": "auto"
+                                  }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "promo-block__inner" }, [
+                              _c(
+                                "p",
+                                {
+                                  staticClass: "promo-block__heading heading h3"
+                                },
+                                [_vm._v("Professional Audio")]
+                              ),
+                              _vm._v(" "),
+                              _c("p", { staticClass: "promo-block__content" }, [
+                                _vm._v(
+                                  "Get the best deals for professional audio equipment."
+                                )
+                              ]),
+                              _c(
+                                "span",
+                                {
+                                  staticClass:
+                                    "promo-block__cta button button--floating"
+                                },
+                                [_vm._v("Shop Now")]
+                              )
+                            ])
+                          ]
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mosaic__column" }, [
+                      _c("div", { staticClass: "mosaic__item" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "promo-block promo-block--top-left ",
+                            attrs: {
+                              href: "collections/headphones.html",
+                              id: "block-1559483991699-2"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "promo-block__image-clip" },
+                              [
+                                _c("div", {
+                                  staticClass:
+                                    "promo-block__image-wrapper promo-block__image-wrapper--cover lazyload image--fade-in",
+                                  attrs: {
+                                    "data-bgset":
+                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-headphones_400x.jpg?v=1559739692 400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-headphones_600x.jpg?v=1559739692 600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-headphones_800x.jpg?v=1559739692 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-headphones_1000x.jpg?v=1559739692 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/mosaic-headphones_1200x.jpg?v=1559739692 1200w",
+                                    "data-sizes": "auto"
+                                  }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "promo-block__inner" }, [
+                              _c(
+                                "p",
+                                {
+                                  staticClass: "promo-block__heading heading h3"
+                                },
+                                [_vm._v("Headphones")]
+                              ),
+                              _vm._v(" "),
+                              _c("p", { staticClass: "promo-block__content" }, [
+                                _vm._v(
+                                  "Our selection of premium headphones to enjoy your favorite playlist\n                          with an incredible sound."
+                                )
+                              ]),
+                              _c(
+                                "span",
+                                {
+                                  staticClass:
+                                    "promo-block__cta button button--floating"
+                                },
+                                [_vm._v("Shop\n                          Now")]
+                              )
+                            ])
+                          ]
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "mosaic__column" }, [
+                      _c("div", { staticClass: "mosaic__item" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "promo-block promo-block--top-left ",
+                            attrs: {
+                              href: "collections/accessories.html",
+                              id: "block-1559483991699-4"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "promo-block__image-clip" },
+                              [
+                                _c("div", {
+                                  staticClass:
+                                    "promo-block__image-wrapper promo-block__image-wrapper--cover lazyload image--fade-in",
+                                  attrs: {
+                                    "data-bgset":
+                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/accessories-bag_400x.jpg?v=1559739848 400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/accessories-bag_600x.jpg?v=1559739848 600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/accessories-bag_800x.jpg?v=1559739848 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/accessories-bag_1000x.jpg?v=1559739848 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/accessories-bag_1200x.jpg?v=1559739848 1200w",
+                                    "data-sizes": "auto"
+                                  }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "promo-block__inner" }, [
+                              _c(
+                                "p",
+                                {
+                                  staticClass: "promo-block__heading heading h3"
+                                },
+                                [_vm._v("Accessories")]
+                              ),
+                              _vm._v(" "),
+                              _c("p", { staticClass: "promo-block__content" }, [
+                                _vm._v(
+                                  "Our various accessories to have the best experience."
+                                )
+                              ]),
+                              _c(
+                                "span",
+                                {
+                                  staticClass:
+                                    "promo-block__cta button button--floating"
+                                },
+                                [_vm._v("Shop Now")]
+                              )
+                            ])
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "mosaic__item" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass:
+                              "promo-block promo-block--top-left promo-block--overlay",
+                            attrs: {
+                              href: "collections/projectors.html",
+                              id: "block-1559483991699-3"
+                            }
+                          },
+                          [
+                            _c(
+                              "div",
+                              { staticClass: "promo-block__image-clip" },
+                              [
+                                _c("div", {
+                                  staticClass:
+                                    "promo-block__image-wrapper promo-block__image-wrapper--cover lazyload image--fade-in",
+                                  attrs: {
+                                    "data-bgset":
+                                      "//cdn.shopify.com/s/files/1/0065/3095/7363/files/projectors_400x.png?v=1559740011 400w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/projectors_600x.png?v=1559740011 600w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/projectors_800x.png?v=1559740011 800w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/projectors_1000x.png?v=1559740011 1000w, //cdn.shopify.com/s/files/1/0065/3095/7363/files/projectors_1200x.png?v=1559740011 1200w",
+                                    "data-sizes": "auto"
+                                  }
+                                })
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "promo-block__inner" }, [
+                              _c(
+                                "p",
+                                {
+                                  staticClass: "promo-block__heading heading h3"
+                                },
+                                [_vm._v("Projectors")]
+                              ),
+                              _vm._v(" "),
+                              _c("p", { staticClass: "promo-block__content" }, [
+                                _vm._v(
+                                  "Play or watch your favorites TV shows with these projectors."
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c(
+                                "span",
+                                {
+                                  staticClass:
+                                    "promo-block__cta button button--floating"
+                                },
+                                [_vm._v("Shop Now")]
+                              )
+                            ])
+                          ]
+                        )
+                      ])
+                    ])
+                  ]
+                )
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1559593095327" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section section--text-centered",
+              attrs: {
+                "data-section-id": "1559593095327",
+                "data-section-type": "rich-text"
+              }
+            },
+            [
+              _c("div", { staticClass: "container container--narrow" }, [
+                _c("h2", { staticClass: "heading h1" }, [
+                  _vm._v("About Warehouse")
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "rte" }, [
+                  _c("p", [
+                    _vm._v(
+                      "Our mission statement is to provide the absolute best customer experience available in the Audio/Video\n                  industry without exception. We choose to only sell the best performing products in the world, learning\n                  them inside and out to ensure your experience with our organization and the products we supply are\n                  second to none. HiDEF Lifestyle is one of the fastest growing Audio and Video retailers in the United\n                  States."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "button button--primary",
+                      attrs: { href: "pages/about.html" }
+                    },
+                    [_vm._v("Discover our brand")]
+                  )
+                ])
+              ])
+            ]
+          )
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "shopify-section",
+          attrs: { id: "shopify-section-1559483970551" }
+        },
+        [
+          _c(
+            "section",
+            {
+              staticClass: "section",
+              attrs: {
+                "data-section-id": "1559483970551",
+                "data-section-type": "logo-list"
+              }
+            },
+            [
+              _c("div", { staticClass: "container" }, [
+                _c("header", { staticClass: "section__header" }, [
+                  _c("h2", { staticClass: "section__title heading h3" }, [
+                    _vm._v("Brands we distribute")
+                  ]),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "section__action-link link",
+                      attrs: { href: "pages/brands.html" }
+                    },
+                    [
+                      _vm._v("View all brands "),
+                      _c(
+                        "svg",
+                        {
+                          staticClass: "icon icon--tail-right",
+                          attrs: {
+                            focusable: "false",
+                            viewBox: "0 0 24 24",
+                            role: "presentation"
+                          }
+                        },
+                        [
+                          _c("path", {
+                            attrs: {
+                              fill: "currentColor",
+                              d:
+                                "M22.707 11.293L15 3.586 13.586 5l6 6H2c-.553 0-1 .448-1 1s.447 1 1 1h17.586l-6 6L15 20.414l7.707-7.707c.391-.391.391-1.023 0-1.414z"
+                            }
+                          })
+                        ]
+                      )
+                    ]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "quick-links" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/jbl.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-0" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/jbl_2x_a92dda2f-02d1-4048-aad8-e54b3b0020d7_280x.jpg?v=1590304148",
+                                      alt: "JBL"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/imag/jbl_2x_a92dda2f-02d1-4048-aad8-e54b3b0020d7_280xcb2d.jpg?v=1590304148",
+                                        alt: "JBL"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  ),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/lg.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-2" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/lg_2x_4e7aac88-df70-46d3-afb8-62440355c980_280x.jpg?v=1590304155",
+                                      alt: "LG"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/imag/lg_2x_4e7aac88-df70-46d3-afb8-62440355c980_280xf5a9.jpg?v=1590304155",
+                                        alt: "LG"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  ),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/sony.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-5" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/sony_2x_1eaa5916-dc1f-4d37-9ffd-1680554d5115_280x.jpg?v=1590304161",
+                                      alt: "Sony"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/imag/sony_2x_1eaa5916-dc1f-4d37-9ffd-1680554d5115_280x85cd.jpg?v=1590304161",
+                                        alt: "Sony"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  ),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/pioneer.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-4" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/pioneer_2x_769ad94d-7220-408d-b709-746a89ffac91_280x.jpg?v=1590304167",
+                                      alt: "Pioneer"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/imag/pioneer_2x_769ad94d-7220-408d-b709-746a89ffac91_280x208d.jpg?v=1590304167",
+                                        alt: "Pioneer"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  ),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/harman-kardon.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-3" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/harman_kardon_2x_d74427ae-81df-4a01-9343-c7bcd116d7da_280x.jpg?v=1590304175",
+                                      alt: "Harman/Kardon"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/imag/harman_kardon_2x_d74427ae-81df-4a01-9343-c7bcd116d7da_280xf1be.jpg?v=1590304175",
+                                        alt: "Harman/Kardon"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  ),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "quick-links__link",
+                      attrs: { href: "collections/klipsch.html" }
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "quick-links__image-container",
+                          attrs: { id: "block-1559483970551-1" }
+                        },
+                        [
+                          _c(
+                            "div",
+                            { staticClass: "quick-links__image-ie-fix" },
+                            [
+                              _c(
+                                "div",
+                                {
+                                  staticClass: "aspect-ratio",
+                                  staticStyle: { "padding-bottom": "32.0%" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "lazyload image--fade-in",
+                                    attrs: {
+                                      "data-src":
+                                        "/assets/img/klipsch_2x_5fbe2c74-cf98-493e-bf75-6987a11db936_280x.jpg?v=1590304182",
+                                      alt: "Klipsch"
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("noscript", [
+                                    _c("img", {
+                                      attrs: {
+                                        src:
+                                          "/assets/img/klipsch_2x_5fbe2c74-cf98-493e-bf75-6987a11db936_280xe262.jpg?v=1590304182",
+                                        alt: "Klipsch"
+                                      }
+                                    })
+                                  ])
+                                ]
+                              )
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  )
+                ])
+              ])
+            ]
+          )
+        ]
+      )
+    ])
+  ])
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -65823,8 +77227,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Denzel Mwale\Documents\BlessingProjects\learning\jetStream\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Denzel Mwale\Documents\BlessingProjects\learning\jetStream\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\Users\Denzel Mwale\Documents\BlessingProjects\learning\ewf\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Denzel Mwale\Documents\BlessingProjects\learning\ewf\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })
