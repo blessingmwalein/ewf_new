@@ -24,7 +24,7 @@
         @routes
         <script src="{{ mix('js/app.js') }}" defer></script>
     </head>
-    <body class="font-sans antialiased">
+    <body \ class="font-sans antialiased warehouse--v1 features--animate-zoom template-index " data-instant-intensity="viewport">
         @inertia
     </body>
 </html>
