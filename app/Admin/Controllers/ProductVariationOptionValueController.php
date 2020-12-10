@@ -65,7 +65,7 @@ class ProductVariationOptionValueController extends AdminController
     {
         $form = new Form(new ProductVariationOptionValue());
 
-        $form->select('product_variation_option_id', __('Product variation option id'))->options(ProductVariationOption::all()->pluck('product_variation_name', 'id'));
+        $form->select('product_variation_option_id', __('Product variation option id'))->options(ProductVariationOption::all()->pluck('name_option', 'id'));
         $form->select('product_variation_value_name', __('Product variation value name'))->options(VariationOption::all()->pluck('variation_option_name', 'variation_option_name'));
 
         return $form;

@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Http\Resources\ProductVariationOptionResource;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
@@ -12,6 +13,7 @@ class Product extends Model
 
     protected $fillable =[
         "product_name",
+        "description",
         "product_slug",
         "category_id",
         "sub_category_id",
@@ -54,5 +56,28 @@ class Product extends Model
 
     public function product_variation_options(){
         return $this->hasMany(ProductVariationOption::class);
+    }
+
+    public function getColorsAttribute(){
+      
+        
+        $productVariationOptions =$this->product_variation_options;
+
+        foreach ($productVariationOptions as $productVariationOption) {
+           if( $productVariationOption->product_variation_name == 'Color'){
+            $colors = ProductVariationOptionValue::where('product_variation_option_id', $productVariationOption->id)->get();
+            return ProductVariationOptionResource::collection($colors);
+            }
+        }
+    }
+    public function getSizesAttribute(){
+        $productVariationOptions =$this->product_variation_options;
+
+        foreach ($productVariationOptions as $productVariationOption) {
+           if( $productVariationOption->product_variation_name == 'Size'){
+            $sizes = ProductVariationOptionValue::where('product_variation_option_id', $productVariationOption->id)->get();
+            return ProductVariationOptionResource::collection($sizes);
+            }
+        }
     }
 }

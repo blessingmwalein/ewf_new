@@ -1,7 +1,6 @@
 <template>
     <div class="min-h-screen bg-gray-100">
-          
-       
+        
         <nav-header></nav-header>
         <!-- Page Content -->
         <main>

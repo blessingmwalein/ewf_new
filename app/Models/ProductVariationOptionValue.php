@@ -15,11 +15,13 @@ class ProductVariationOptionValue extends Model
         "product_variation_value_name",
     ];
 
-    protected $appends = ['product_id'];
+    // protected $appends = ['product_id'];
 
-    public function setProductIdAttribute(){
-        $this->product_id = $this->product_variation_option->product_id;
-    }
+    // public function setProductIdAttribute(){
+    //     $this->product_id = $this->product_variation_option->product_id;
+    // }
+
+
     
     public function product_images(){
         return $this->hasMany(ProductImage::class);

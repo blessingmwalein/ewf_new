@@ -11,6 +11,15 @@ class VariationOption extends Model
 
     protected $fillable=[
         "variation_id",
-        "variation_option_name"
+        "variation_option_name",
+       
     ];
+
+    protected $appends = ['variation_name'];
+
+    public function variation(){
+        return $this->belongsTo(Variation::class);
+    }
+  
+  
 }

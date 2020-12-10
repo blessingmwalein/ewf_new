@@ -15,7 +15,8 @@ class SubCategoryResource extends JsonResource
     public function toArray($request)
     {
         return  [
-            "sub_categoty_name" => $this->sub_category_name,
+            "id" => $this->id,
+            "sub_category_name" => $this->sub_category_name,
             "sub_category_icon" => $this->sub_category_icon,
             "sub_category_slug" => $this->sub_category_slug,
             "products" => ProductResource::collection($this->products),

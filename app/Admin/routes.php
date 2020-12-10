@@ -24,4 +24,7 @@ Route::group([
     $router->resource('product-stocks', ProductStockController::class);
     $router->resource('variations', VariationController::class);
     $router->resource('variation-options', VariationOptionController::class);
+    $router->resource('distance-costs', DistanceCostController::class);
+    $router->resource('orders', OrderController::class);
+    $router->resource('city-towns', CityTownController::class);
 });

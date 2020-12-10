@@ -12,6 +12,18 @@ class ProductCombinationController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    public function price(Request $request){
+
+        $unique_id = $request->unique_id;
+
+        $combination = ProductCombination::where('unique_string_id', $unique_id )->first();
+        if($combination){
+            return response()->json(['price'=> $combination->price], 200);
+        }
+
+        return $this->jsonError("Combination out of stock");
+    }
+
     public function index()
     {
         //

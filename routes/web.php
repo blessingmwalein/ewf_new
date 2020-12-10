@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Inertia\Inertia as Inertia;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +19,16 @@ Route::get('/', function () {
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return Inertia\Inertia::render('Dashboard');
+    return Inertia::render('Dashboard');
 })->name('dashboard');
+
+Route::middleware(['auth:sanctum'])->get('/products/shopping-cart', function () {
+    return Inertia::render('Cart');
+})->name('shopping-cart');
+
+Route::middleware(['auth:sanctum'])->get('/products/shopping-cart/checkout', function () {
+    return Inertia::render('Checkout');
+})->name('checkout');
+
+Route::get('/products/{product}','App\Http\Controllers\ProductController@show')->name('single-product');
 
