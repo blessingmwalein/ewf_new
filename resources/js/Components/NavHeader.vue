@@ -1,39 +1,37 @@
 <template>
 <header class="header_wrap">
-	<div class="top-header light_skin bg_dark d-none d-md-block">
-        <div class="custom-container">
+	<div class="top-header">
+        <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6 col-md-8">
-                	<div class="header_topbar_info">
-                    	<div class="header_offer">
-                    		<span>Free Ground Shipping Over $250</span>
-                        </div>
-                        <div class="download_wrap">
-                            <span class="mr-3">Download App</span>
-                            <ul class="icon_list text-center text-lg-left">
-                                <li><a href="#"><i class="fab fa-apple"></i></a></li>
-                                <li><a href="#"><i class="fab fa-android"></i></a></li>
-                                <li><a href="#"><i class="fab fa-windows"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-4">
-                	<div class="d-flex align-items-center justify-content-center justify-content-md-end">
-                        <div class="lng_dropdown">
+                <div class="col-md-6">
+                	<div class="d-flex align-items-center justify-content-center justify-content-md-start">
+                        <div class="lng_dropdown mr-2">
                             <select name="countries" class="custome_select">
-                                <option value='en' data-image="/assets/images/eng.png" data-title="English">English</option>
-                                <option value='fn' data-image="/assets/images/fn.png" data-title="France">France</option>
-                                <option value='us' data-image="/assets/images/us.png" data-title="United States">United States</option>
+                                <option value='en' data-image="assets/images/eng.png" data-title="English">English</option>
+                                <option value='fn' data-image="assets/images/fn.png" data-title="France">France</option>
+                                <option value='us' data-image="assets/images/us.png" data-title="United States">United States</option>
                             </select>
                         </div>
-                        <div class="ml-3">
+                        <div class="mr-3">
                             <select name="countries" class="custome_select">
                                 <option value='USD' data-title="USD">USD</option>
                                 <option value='EUR' data-title="EUR">EUR</option>
                                 <option value='GBR' data-title="GBR">GBR</option>
                             </select>
                         </div>
+                        <ul class="contact_detail text-center text-lg-left">
+                            <li><i class="ti-mobile"></i><span>123-456-7890</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                	<div class="text-center text-md-right">
+                       	<ul class="header_list">
+                            <li v-if="!$page.user"><inertia-link :href="route('login')"><i class="ti-user"></i><span>Login</span></inertia-link></li>
+                            <li v-if="!$page.user"><inertia-link :href="route('register')"><i class="ti-user" ></i><span>Register</span></inertia-link></li>
+                            <li v-if="$page.user"><inertia-link :href="route('profile.show')"><i class="ti-user"></i><span>{{$page.user.name}}</span></inertia-link></li>
+                            <li v-if="$page.user"><inertia-link :href="route('profile.show')"><i class="icon-basket-loaded"></i><span>Orders</span></inertia-link></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -62,7 +60,7 @@
                         </div>
                     </form>
                 </div>
-                <ul  class="navbar-nav attr-nav align-items-center" v-if="!loading">
+                <ul  class="navbar-nav attr-nav align-items-center" v-if="$page.user">
                     <li><a href="#" class="nav-link"><i class="linearicons-user"></i></a></li>
                     <li><a href="#" class="nav-link"><i class="linearicons-heart"></i><span class="wishlist_count">0</span></a></li>
                     <li class="dropdown cart_dropdown" id="cart_dropdown"><a class="nav-link cart_trigger" href="#" data-toggle="dropdown"><i class="linearicons-bag2"></i><span class="cart_count">{{$store.state.cart_items_length}}</span><span class="amount"><span class="currency_symbol">$</span>{{$store.state.cart_subtotal}}.00</span></a>
@@ -91,6 +89,24 @@
                             </div>
                         </div>
 
+                    </li>
+                </ul>
+
+                <ul  class="navbar-nav attr-nav align-items-center" v-else>
+                    <li><a href="#" class="nav-link"><i class="linearicons-user"></i></a></li>
+                    <li><a href="#" class="nav-link"><i class="linearicons-heart"></i><span class="wishlist_count">0</span></a></li>
+                    <li class="dropdown cart_dropdown" id="cart_dropdown"><a class="nav-link cart_trigger" href="#" data-toggle="dropdown"><i class="linearicons-bag2"></i><span class="cart_count">00.00</span></a>
+                       
+                        <div  class="cart_box cart_right dropdown-menu dropdown-menu-right" id="cart_dropdown_2">
+                            
+                            <div class="cart_list" style="text-align:center;padding-top:30px;margin-top:10px">
+                              <i class="ti-user" style="text-align:center;font-size:100px"></i>
+                                <p style="text-align:center;">Please Login First</p>
+                            </div>
+                            <div class="cart_footer" style="text-align:center;padding: 20px">
+                               <inertia-link class="btn btn-fill-out btn-addtocart" style="text-align:center; width:100%" :href="route('login')" type="button">Login</inertia-link>
+                            </div>
+                        </div>
                     </li>
                 </ul>
             </div>
@@ -203,16 +219,16 @@
                                                     <li class="mega-menu-col col-lg-4">
                                                         <ul> 
                                                             <li class="dropdown-header">Shop Page Layout</li>
-                                                            <li><a class="dropdown-item nav-link nav_item" href="shop-list-left-sidebar.html">shop List Left Sidebar</a></li>
-                                                            <li><a class="dropdown-item nav-link nav_item" href="shop-list-right-sidebar.html">Shop By Category</a></li>
-                                                            <li><a class="dropdown-item nav-link nav_item" href="shop-left-sidebar.html">Shop By Brand</a></li>
+                                                            <li><inertia-link clinertia-linkss="dropdown-item nav-link nav_item" :href="route('shop')">shop Grid</inertia-link></li>
+                                                            <li><inertia-link class="dropdown-item nav-link nav_item" :href="route('shop')">Shop By Category</inertia-link></li>
+                                                            <li><a class="dropdown-item nav-link nav_item" :href="route('shop')">Shop By Brand</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="mega-menu-col col-lg-4">
                                                         <ul>
                                                             <li class="dropdown-header">Other Pages</li>
-                                                            <li><a class="dropdown-item nav-link nav_item" href="shop-cart.html">Cart</a></li>
-                                                            <li><a class="dropdown-item nav-link nav_item" href="checkout.html">Checkout</a></li>
+                                                            <li><inertia-link class="dropdown-item nav-link nav_item" :href="route('shopping-cart')">Cart</inertia-link></li>
+                                                            <li><inertia-link class="dropdown-item nav-link nav_item" :href="route('checkout')">Checkout</inertia-link></li>
                                                         </ul>
                                                     </li>
                                                     <li class="mega-menu-col col-lg-3">
@@ -237,8 +253,8 @@
                                         </ul>
                                     </div>
                                 </li>
-                                <li><a class="nav-link nav_item" href="contact.html">Cart</a></li> 
-                                <li><a class="nav-link nav_item" href="contact.html">Contact Us</a></li> 
+                                <li><inertia-link class="nav-link nav_item" :href="route('shopping-cart')">Cart</inertia-link></li> 
+                                <li><inertia-link class="nav-link nav_item" href="contact.html">Contact Us</inertia-link></li> 
                             </ul>
                         </div>
                         <div class="contact_phone contact_support">

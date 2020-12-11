@@ -10,7 +10,9 @@ export default {
             loading:false,
             cart: {},
             cart_subtotal:0,
-            cart_items_length:0
+            cart_items_length:0,
+            message : "",
+            error: ""
         }
     },
 
@@ -24,10 +26,22 @@ export default {
                 }
             };
         },
+        getProducts(){
+            axios.get('/api/products')
+            .then(response=>{
+                this.$store.state.products = response.data;
+                this.products = response.data
+                this.loading = false
+            })
+            .catch(error=>{
+                console.log(error.response)
+            })
+        },
 
         getCategories(){
             axios.get('/api/categories')
             .then(response=> {
+                this.$store.state.categories = response.data
                 this.categories = response.data
             }).catch(error=>{
                 console.log(error.response.data)
@@ -36,6 +50,7 @@ export default {
         getSubCategories(){
             axios.get('/api/sub_categories')
             .then(response=> {
+                this.$store.state.sub_categories = response.data
                 this.sub_categories = response.data
             }).catch(error=>{
                 console.log(error.response.data)
@@ -89,9 +104,9 @@ export default {
 
             axios.get('/api/distance_cost')
              .then(response=>{
-                 thid.$store.state.distance_cost = response.data
+                 this.$store.state.distance_cost = response.data
              }).catch(error=>{
-                 console.log(error.response.data)
+                 console.log(error.response)
              })
         },
 
@@ -100,7 +115,32 @@ export default {
                 .then(response=>{
                     this.$store.state.city_towns = response.data
                 }).catch(error=>{
-                    console.log(error.response.data)
+                    console.log(error.response)
+                })
+        },
+
+        getSizes(){
+            axios.get('/api/variation_option/sizes')
+                .then(response=>{
+                    this.$store.state.sizes = response.data.data
+                }).catch(error=>{
+                    console.log(error.response)
+                })
+        },
+        getColors(){
+            axios.get('/api/variation_option/colors')
+                .then(response=>{
+                    this.$store.state.colors = response.data.data
+                }).catch(error=>{
+                    console.log(error.response)
+                })
+        },
+        getBrands(){
+            axios.get('/api/brands')
+                .then(response=>{
+                    this.$store.state.brands = response.data.data
+                }).catch(error=>{
+                    cosole.log(error.response)
                 })
         }
     }

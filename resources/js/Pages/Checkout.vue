@@ -1,6 +1,6 @@
 <template>
     <div>
-        <app-layout>
+        <!-- <app-layout> -->
             <vue-topprogress ref="topProgress"></vue-topprogress>
             <bread-crumb :text="'Shop Checkout'"></bread-crumb>
 
@@ -27,20 +27,10 @@
                                     
                                     <div class="form-group">
                                         <div class="custom_select">
-                                            <select class="form-control">
-                                                <option value=""
-                                                    >Select City or Town...</option
-                                                >
-                                                <option value="AX"
-                                                    >Aland Islands</option
-                                                >
-                                                <option value="AF"
-                                                    >Afghanistan</option
-                                                >
-                                                <option value="AL"
-                                                    >Albania</option
-                                                >
-                                               
+                                            <select class="form-control" v-on:change="calcTransport()" v-model="city">
+                                                <option  @click="calcTransport(city)" v-for="(city, index) in $store.state.city_towns" :key="index" :value="city"
+                                                    >{{city.city_name}}</option
+                                                > 
                                             </select>
                                         </div>
                                     </div>
@@ -51,6 +41,7 @@
                                             name="billing_address"
                                             required=""
                                             placeholder="Address *"
+                                            v-model="address"
                                         />
                                     </div>
                                     
@@ -61,6 +52,7 @@
                                             type="text"
                                             name="city"
                                             placeholder="Id \Passport no *"
+                                            v-model="id_passport"
                                         />
                                     </div>
                                     <div class="form-group">
@@ -70,6 +62,7 @@
                                             type="text"
                                             name="phone"
                                             placeholder="Phone *"
+                                            v-model="mobile"
                                         />
                                     </div>
                                     <div class="form-group">
@@ -79,6 +72,7 @@
                                             type="text"
                                             name="email"
                                             placeholder="Email address *"
+                                            v-model="email"
                                         />
                                     </div>
                                   
@@ -91,6 +85,7 @@
                                             rows="5"
                                             class="form-control"
                                             placeholder="Order notes"
+                                            v-model="order_notes"
                                         ></textarea>
                                     </div>
                                 </form>
@@ -114,7 +109,7 @@
                                                         {{item.product.product_name}}
                                                         <span
                                                             class="product-qty"
-                                                            >x {{item.quantity}}</span ><br>
+                                                            >x {{item.qauntity}}</span ><br>
                                                     </td>
                                                     <td>${{getSubTotal(item.properties)}}.00</td>
                                                 </tr>
@@ -131,14 +126,14 @@
                                                 </tr>
                                                 <tr>
                                                     <th>Transport</th>
-                                                    <td>$12.00</td>
+                                                    <td>${{transport_cost}}.00</td>
                                                 </tr>
                                                 <tr>
                                                     <th>Total</th>
                                                     <td
                                                         class="product-subtotal"
                                                     >
-                                                        $349.00
+                                                        ${{transport_cost + $store.state.cart_subtotal }}.00
                                                     </td>
                                                 </tr>
                                             </tfoot>
@@ -156,21 +151,16 @@
                                                     type="radio"
                                                     name="payment_option"
                                                     id="exampleRadios3"
-                                                    value="option3"
+                                                    value="ecocash"
                                                     checked=""
+                                                    v-model="method"
                                                 />
                                                 <label
                                                     class="form-check-label"
                                                     for="exampleRadios3"
                                                     >Ecocash</label
                                                 >
-                                                <p
-                                                    data-method="option3"
-                                                    class="payment-text"
-                                                >
-                                                        <input type="text" class="form-control form-control-sm" >
-                                                        <small id="emailHelp" class="form-text text-muted">Mobile</small>
-                                                </p>
+                                            
                                             </div>
                                             <div class="custome-radio">
                                                 <input
@@ -178,20 +168,15 @@
                                                     type="radio"
                                                     name="payment_option"
                                                     id="exampleRadios4"
-                                                    value="option4"
+                                                    value="onemoney"
+                                                    v-model="method"
                                                 />
                                                 <label
                                                     class="form-check-label"
                                                     for="exampleRadios4"
                                                     >One Money</label
                                                 >
-                                                <p
-                                                    data-method="option4"
-                                                    class="payment-text"
-                                                >
-                                                   <input type="text" class="form-control form-control-sm">
-                                                    <small id="emailHelp" class="form-text text-muted">Mobile</small>
-                                                </p>
+                                             
                                             </div>
                                             <div class="custome-radio">
                                                 <input
@@ -199,21 +184,15 @@
                                                     type="radio"
                                                     name="payment_option"
                                                     id="exampleRadios5"
-                                                    value="option5"
+                                                    value="paynow"
+                                                    v-model="method"
                                                 />
                                                 <label
                                                     class="form-check-label"
                                                     for="exampleRadios5"
                                                     >Paynow</label
                                                 >
-                                                <p
-                                                    data-method="option5"
-                                                    class="payment-text"
-                                                >
-                                                    Pay via paynow; you can pay
-                                                    with your credit card if you
-                                                    don't have a paynow account.
-                                                </p>
+                                                
                                             </div>
 
                                             <div class="custome-radio">
@@ -222,7 +201,8 @@
                                                     type="radio"
                                                     name="payment_option"
                                                     id="exampleRadios6"
-                                                    value="option5"
+                                                    value="cash"
+                                                    v-model="method"
                                                 />
                                                 <label
                                                     class="form-check-label"
@@ -236,13 +216,27 @@
                                                     Pay upon delivery of goods.
                                                 </p>
                                             </div>
+                                            <div class="form-group" v-if="method=='ecocash' || method=='onemoney'">
+                                                <input type="text" class="form-control form-control-sm" >
+                                                 <small id="emailHelp" class="form-text text-muted">Mobile</small>
+                                            </div>
                                         </div>
                                     </div>
-                                    <a
+                                    <div v-if="message" class="alert alert-dark" role="alert">
+                                       {{message}}
+                                    </div>
+                                    <div v-if="error" class="alert alert-dark" role="alert">
+                                       {{error}}
+                                    </div>
+                                    <a  v-if="!loading"
                                         href="#"
                                         class="btn btn-fill-out btn-block"
+                                        @click.prevent="checkout()"
                                         >Place Order</a
                                     >
+                                      <div v-if="loading" class="spinner-border text-primary" style="text-align:center" role="status">
+                                        <span class="sr-only">Loading...</span>
+                                     </div>
                                 </div>
                             </div>
                         </div>
@@ -284,21 +278,39 @@
                 </div>
                 <!-- START SECTION SUBSCRIBE NEWSLETTER -->
             </div>
-        </app-layout>
+        <!-- </app-layout> -->
     </div>
 </template>
 
 <script>
-import AppLayout from "@/Layouts/AppLayout";
+// import AppLayout from "@/Layouts/AppLayout";
 import BreadCrumb from "@/Components/BreadCrumb";
 // import axios from 'axios'
-// import global from '@/Mixins/global.js'
+import global from '@/Mixins/global.js'
 export default {
+    data(){
+        return{
+            transport_cost: 0,
+            mobile:"",
+            method:"paynow",
+            email:this.$page.user.email,
+            order_notes: "",
+            city:{},
+            id_passport:"",
+            address:"", 
+            order: {}
+        }
+    },
     components: {
-        AppLayout,
+        // AppLayout,
         BreadCrumb
     },
-
+    mounted(){
+        this.getCities()
+        this.getDistanceCost()
+        this.getCart()
+    },
+    mixins:[global],
     methods: {
         getSubTotal(properties) {
             var total = 0;
@@ -306,6 +318,49 @@ export default {
                 total = total + property.quantity * property.price;
             });
             return total;
+        },
+        calcTransport(){
+            this.transport_cost = this.city.distance * this.$store.state.distance_cost.cost
+            console.log('zvaita')
+        },
+        checkout(){
+            this.loading = true
+            this.$refs.topProgress.start()
+
+            axios.post('/api/products/shopping_cart/checkout/'+ this.$page.user.cart.id, {
+                amount : this.transport_cost + this.$store.state.cart_subtotal,
+                order_notes : this.order_notes,
+                method : (this.method === "ecocash" || this.method === "onemoney") ? "mobile" : "paynow",
+                mobile : this.method,
+                transport_cost: this.transport_cost,
+                email : this.email,
+                phone_number : this.mobile,
+                id_passport : this.id_passport,
+                address : this.address,
+                user_id : this.$page.user.id,
+                city_town : this.city.city_name
+            })
+            .then(response=>{
+                this.loading = false
+                this.$refs.topProgress.done()
+                if(response.status === 201 ||  response.status === 200){
+                    this.order = response.data.data
+                    if(this.method === "paynow"){
+                        setTimeout(()=>{
+                            location.href = this.order.transaction.link
+                        }, 2000)
+                    }
+                }else{
+                  this.error = response.message
+                }
+                console.log(response.data)
+
+            }).catch(error => {
+                this.loading = false
+
+                this.error = error.response.data.message
+                console.log(error.response)
+            })
         }
     }
 };

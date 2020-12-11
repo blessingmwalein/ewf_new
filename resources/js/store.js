@@ -12,7 +12,13 @@ export default new Vuex.Store({
       cart_subtotal:0,
       cart_items_length:0,
       distance_cost:{},
-      city_towns:[]
+      city_towns:[],
+      sizes:[],
+      colors:[],
+      brands:[],
+      products: {},
+      categories: {},
+      sub_categories: {},
     },
 
     actions: {

@@ -3,10 +3,15 @@
 namespace App\Http\Controllers;
 
 use App\Http\Resources\CartResource;
+use App\Http\Resources\OrderResource;
 use App\Models\Cart;
 use App\Models\CartItem;
+use App\Models\Order;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
+use App\Models\Transaction;
+use Paynow\Http\ConnectionException;
+
 
 class CartController extends Controller
 {
@@ -139,5 +144,55 @@ class CartController extends Controller
                 return new CartResource($cart);
             }
             
+    }
+    public function checkout(Request $request, Cart $cart){
+
+        $data = $request->validate([
+		    "amount" => "required",
+            "order_notes" => "required|string",
+		    "method" => "required|string",
+            "mobile" => "nullable|string",
+            "transport_cost"=>"required | numeric",
+            "email" => "required",  
+            "phone_number" => "required | numeric",
+            "id_passport"=> "required | string",                                                                
+            "address" => "required | string",
+            "user_id" => "required | numeric",
+            "city_town"=> "required | string"
+	    ]);
+
+	    $transaction = $this->initiateTransaction($data["amount"], "order", $data["mobile"], $data["phone_number"], $data["method"], $data['email']);
+
+        // dd($transaction);
+
+	    if($transaction === null){
+		    return $this->jsonError("Problem connecting to the PSP",500);
+	    }
+	    else if($transaction instanceof Transaction){
+
+	    	$orderData = [
+			    "transaction_id"=>$transaction->id,
+				"user_id"=>$data["user_id"],
+                "address"=> $data["address"],
+                "mobile" => $data["phone_number"],
+                "items"=> json_encode($cart->items),
+                "ref_number" =>"",
+                "order_notes"=> $data["order_notes"],
+                "transport_cost"=>$data["transport_cost"],
+                "order_status"=>"pending",
+                "city_town"=> $data['city_town'],
+                "email" => $data["email"],
+                "id_passport"=> $data["id_passport"],
+            ];
+
+            $order = Order::create($orderData);
+            // $order->ref_number ="EWF" + $order->id + rand(0, 9999);
+            // $order->save();
+
+	    	return new OrderResource($order);
+	    }
+	    else if($transaction instanceof ConnectionException){
+		    return $this->jsonError($transaction->getMessage(),500);
+	    }
     }
 }

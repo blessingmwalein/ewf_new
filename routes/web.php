@@ -15,10 +15,14 @@ use Inertia\Inertia as Inertia;
 */
 
 Route::get('/', function () {
-    return view('template.index');
+    return Inertia::render('Dashboard');
 });
 
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+// Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+//     return Inertia::render('Dashboard');
+// })->name('dashboard');
+
+Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->name('dashboard');
 
@@ -30,5 +34,13 @@ Route::middleware(['auth:sanctum'])->get('/products/shopping-cart/checkout', fun
     return Inertia::render('Checkout');
 })->name('checkout');
 
+Route::middleware(['auth:sanctum'])->get('/paynow/order', function () {
+    return Inertia::render('OrderCompleted');
+})->name('order-completed');
+
 Route::get('/products/{product}','App\Http\Controllers\ProductController@show')->name('single-product');
+
+Route::get('/shop/products/', function () {
+    return Inertia::render('Shop');
+})->name('shop');
 

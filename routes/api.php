@@ -20,6 +20,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 Route::resource('products', 'App\Http\Controllers\ProductController')->except(['destroy', 'create', 'store', 'update', 'edit']);
 Route::resource('categories', 'App\Http\Controllers\CategoryController')->except(['destroy', 'create', 'store', 'update', 'edit']);
+Route::get('brands', 'App\Http\Controllers\BrandController@index');
 Route::resource('sub_categories', 'App\Http\Controllers\SubCategoryController')->except(['destroy', 'create', 'store', 'update', 'edit']);
 Route::resource('variation_options','App\Http\Controllers\VariationOptionController')->except(['destroy', 'create', 'store', 'update', 'edit']);
 Route::get('variation_option/colors', 'App\Http\Controllers\VariationOptionController@colorsOption');
@@ -29,3 +30,4 @@ Route::post('cart/add_cart_items/{cart}', 'App\Http\Controllers\CartController@a
 Route::get('/carts/{cart}', 'App\Http\Controllers\CartController@index');
 Route::get('distance_cost', 'App\Http\Controllers\DistanceCostController@index');
 Route::get('city_towns', 'App\Http\Controllers\CityTownController@index');
+Route::post('/products/shopping_cart/checkout/{cart}', 'App\Http\Controllers\CartController@checkout');
